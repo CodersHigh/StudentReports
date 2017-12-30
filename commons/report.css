@@ -1,0 +1,52 @@
+@import url(http://fonts.googleapis.com/earlyaccess/notosanskr.css);
+@import url(http://fonts.googleapis.com/earlyaccess/nanummyeongjo.css);
+
+body {
+    max-width: 1024px;    
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-left: auto;
+    margin-right: auto;
+    
+    padding: 0;
+}
+
+header {
+    font-family: 'Nanum Myeongjo', serif;
+}
+
+header .top {
+    background-image: url('/commons/image_top.jpeg');
+    height: 379px;
+}
+
+header .name {
+    padding-top: 70px;
+    padding-bottom: 70px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 70px;
+}
+
+header .description {
+    margin-bottom: 20px;
+}
+
+header .description p {
+    color: #5D5F63;
+    text-align: center;
+    font-weight: normal;
+    font-size: 40px;
+    margin : 0px;
+    padding: 5px;
+}
+
+
+article {
+    font-family: 'Noto Sans KR', sans-serif;
+}
+
+
+footer {
+    font-family: 'Nanum Myeongjo', serif;
+}
