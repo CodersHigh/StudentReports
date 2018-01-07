@@ -1,0 +1,46 @@
+.container {
+    margin-left: 48px;
+    margin-right: 48px;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+
+.row {
+  margin-right: -15px;
+  margin-left: -15px;
+}
+
+.title {
+    font-size: 24px;
+    margin-left: 20px;
+    margin-bottom: 50px;
+}
+
+.gotoapp {
+
+    height: 50px;
+    display: inline-block;
+    border-radius: 6px;
+    padding: 0 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    height: 38px;
+    line-height: 38px;
+}
+
+.spacing-xs {
+    margin-bottom: 40px;
+}
+
+.spacing-sm {
+    margin-bottom: 80px;
+}
+
+.spacing-md {
+    margin-bottom: 160px;
+}
+
+.centered {
+    text-align: center;
+}

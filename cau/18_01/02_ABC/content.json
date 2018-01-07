@@ -1,0 +1,24 @@
+{
+    "contents" : [
+        {
+            "lang" : "ko",
+            "content" : {
+                "report_no" : "18-CAU-01-001",
+                "name" : "홍길동",
+                "course" : "중앙대학교 iOS특성화 교육과정",
+                "period" : "2017년 12월 19일~2018년 2월 12일(8주 135시간)",
+                "instructor" : "고준일"
+            }
+        },
+        {
+            "lang" : "en",
+            "content" : {
+                "report_no" : "18-CAU-01-001",
+                "name" : "Gildong Hong",
+                "course" : "CAU iOS특성화 교육과정",
+                "period" : "2017년 12월 19일~2018년 2월 12일(8주 135시간)",
+                "instructor" : "고준일"
+            }
+        }
+    ]
+}

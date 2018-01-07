@@ -2,12 +2,12 @@
 @import url(http://fonts.googleapis.com/earlyaccess/nanummyeongjo.css);
 
 body {
-    max-width: 1024px;    
+    max-width: 1024px;
     margin-top: 0;
     margin-bottom: 0;
     margin-left: auto;
     margin-right: auto;
-    
+
     padding: 0;
 }
 
@@ -16,8 +16,18 @@ header {
 }
 
 header .top {
-    background-image: url('/commons/image_top.jpeg');
-    height: 379px;
+    background-image: url('./header.png');
+    width: 100%;
+    height: 400px;
+    background-repeat: no-repeat;
+    margin-top: -60px;
+
+}
+
+header .ribbon {
+    background-image: url('./ribbon.png');
+    width: 400px;
+    height: auto;
 }
 
 header .name {
@@ -28,8 +38,31 @@ header .name {
     font-size: 70px;
 }
 
+header .num {
+    padding-top: 180px;
+    padding-left: 50px;
+}
+
+header .title {
+    margin-top: -50px;
+    margin-left: 100px;
+    margin-bottom: 50px;
+}
+
+header .title p {
+    color: #5D5F63;
+    font-weight: bold;
+    font-size: 40px;
+    margin : 0px;
+    padding: 5px;
+}
+
+header .title_korean {
+    letter-spacing: 14px;
+}
+
 header .description {
-    margin-bottom: 20px;
+    margin-bottom: 50px;
 }
 
 header .description p {
@@ -41,6 +74,29 @@ header .description p {
     padding: 5px;
 }
 
+header .course {
+    margin-left: 50px;
+    font-size: 20px;
+    letter-spacing: 5px;
+    line-height: 200%;
+}
+
+header .report-detail {
+    text-align: center;
+    font-size: 40px;
+    font-family: 'Noto Sans KR', sans-serif;
+    margin-bottom: 50px;
+}
+
+header .detail-content {
+    text-align: center;
+    line-height: 1.5em;
+    margin-bottom: 150px;
+}
+
+header .word-spacing {
+    margin-left: 48px;
+}
 
 article {
     font-family: 'Noto Sans KR', sans-serif;
@@ -49,4 +105,33 @@ article {
 
 footer {
     font-family: 'Nanum Myeongjo', serif;
+}
+
+footer .bottom {
+    background-image: url('./footer.png');
+    background-size: 1024px;
+    height: 200px;
+    background-repeat: no-repeat;
+    margin-left: 0px;
+}
+
+footer .word-spacing {
+    margin-left: 36px;
+}
+
+footer .word-spacing-m {
+    margin-left: 82px;
+}
+
+footer .footer-spacing {
+    margin-left: 700px;
+    margin-top: 12px;
+}
+
+footer .top-spacing {
+    padding-top: 100px;
+}
+
+.spacing{
+    margin-top: 200px;
 }
