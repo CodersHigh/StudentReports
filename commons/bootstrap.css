@@ -298,6 +298,9 @@ figure {
   margin: 0;
 }
 img {
+
+    height: auto;
+    max-width: 100%;
   vertical-align: middle;
 }
 .img-responsive,
@@ -3727,8 +3730,8 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
     padding-left: 0;
   }
 }
-.container > .navbar-header,
-.container-fluid > .navbar-header,
+. > .navbar-header,
+.-fluid > .navbar-header,
 .container > .navbar-collapse,
 .container-fluid > .navbar-collapse {
   margin-right: -15px;
