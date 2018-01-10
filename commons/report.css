@@ -7,7 +7,6 @@ body {
     margin-bottom: 0;
     margin-left: auto;
     margin-right: auto;
-
     padding: 0;
 }
 
@@ -17,39 +16,37 @@ header {
 
 header .top {
     background-image: url('./header.png');
-    width: 100%;
+    background-size: 1024px;
     height: 400px;
     background-repeat: no-repeat;
-    margin-top: -60px;
+
 
 }
 
-header .ribbon {
-    background-image: url('./ribbon.png');
-    width: 400px;
-    height: auto;
-}
 
 header .name {
-    padding-top: 70px;
+    padding-top: 80px;
     padding-bottom: 70px;
+    margin-left: 30px;
     text-align: center;
     font-weight: bold;
     font-size: 70px;
+    letter-spacing: 30px;
+
 }
 
 header .num {
-    padding-top: 180px;
+    padding-top: 120px;
     padding-left: 50px;
 }
 
-header .title {
-    margin-top: -50px;
+header .report_title {
+    margin-top: -140px;
     margin-left: 100px;
     margin-bottom: 50px;
 }
 
-header .title p {
+header .report_title p {
     color: #5D5F63;
     font-weight: bold;
     font-size: 40px;
@@ -125,13 +122,82 @@ footer .word-spacing-m {
 
 footer .footer-spacing {
     margin-left: 700px;
-    margin-top: 12px;
+    margin-top: 10px;
 }
 
 footer .top-spacing {
     padding-top: 100px;
 }
 
+footer .edulogo {
+    width: 15%;
+    margin-left: 776px;
+    margin-top: 5px;
+
+}
+
 .spacing{
     margin-top: 200px;
+}
+
+
+
+header .row {
+  margin-right: -15px;
+  margin-left: -15px;
+}
+
+header .title {
+    font-family: 'Noto Sans KR', sans-serif;
+    font-size: 24px;
+    margin-left: 20px;
+    margin-bottom: 50px;
+}
+
+header .subtitle {
+    font-size: 24px;
+    margin-left: 40px;
+    margin-bottom: 30px;
+
+}
+
+header .gotoapp {
+
+    height: 50px;
+    display: inline-block;
+    border-radius: 6px;
+    padding: 0 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    height: 38px;
+    line-height: 38px;
+}
+
+header .test {
+    margin-left: 100px;
+    margin-top: 0px;
+}
+
+.spacing-xs {
+    margin-bottom: 40px;
+}
+
+.spacing-sm {
+    margin-bottom: 80px;
+}
+
+.spacing-md {
+    margin-bottom: 160px;
+}
+
+.centered {
+    text-align: center;
+}
+
+.lefted {
+    margin-left: -100px;
+}
+
+.noteworthy-commit {
+    text-align: center;
 }
