@@ -19,10 +19,12 @@ header .top {
     background-size: 1024px;
     height: 400px;
     background-repeat: no-repeat;
-
-
 }
 
+header .lang_button {
+    margin-top: 20px;
+    margin-left: 50px;
+}
 
 header .name {
     padding-top: 80px;
@@ -58,6 +60,10 @@ header .title_korean {
     letter-spacing: 14px;
 }
 
+header .title_eng {
+    margin-bottom: 120px;
+}
+
 header .description {
     margin-bottom: 50px;
 }
@@ -78,20 +84,28 @@ header .course {
     line-height: 200%;
 }
 
-header .report-detail {
+header .course-spacing {
+    margin-left: 44px;
+}
+
+header .period-spacing {
+    margin-left: 50px;
+}
+
+.report-detail {
     text-align: center;
     font-size: 40px;
     font-family: 'Noto Sans KR', sans-serif;
     margin-bottom: 50px;
 }
 
-header .detail-content {
+.detail-content {
     text-align: center;
     line-height: 1.5em;
     margin-bottom: 150px;
 }
 
-header .word-spacing {
+.word-spacing {
     margin-left: 48px;
 }
 
@@ -142,26 +156,26 @@ footer .edulogo {
 
 
 
-header .row {
+.row {
   margin-right: -15px;
   margin-left: -15px;
 }
 
-header .title {
+.title {
     font-family: 'Noto Sans KR', sans-serif;
     font-size: 24px;
     margin-left: 20px;
     margin-bottom: 50px;
 }
 
-header .subtitle {
+.subtitle {
     font-size: 24px;
     margin-left: 40px;
     margin-bottom: 30px;
 
 }
 
-header .gotoapp {
+.gotoapp {
 
     height: 50px;
     display: inline-block;
@@ -173,7 +187,7 @@ header .gotoapp {
     line-height: 38px;
 }
 
-header .test {
+.test {
     margin-left: 100px;
     margin-top: 0px;
 }
