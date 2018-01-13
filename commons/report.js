@@ -44,7 +44,19 @@ function fillHeader() {
     var instructor = content.instructor;
     var appName = content.appName;
     var partner = content.partner;
-    var appImg = content.appImg;
+    var appIntro = content.appIntro;
+    var testPeriod = content.testPeriod;
+    var testScore = content.testScore;
+    var appStore = content.appStore;
+    var website = content.website;
+    var sourceCode = content.sourceCode;
+    var video = content.video;
+    var commit1 = content.commit1;
+    var commit2 = content.commit2;
+    var commit3 = content.commit3;
+
+
+
 
     var code = "<div class='top'>\
     <div class='ribbon'>\
@@ -85,24 +97,21 @@ function fillHeader() {
         </div>\
         <div class='row'>\
             <div class='col-xs-5 centered'>\
-                "+appImg+"\
-                <img src='detail/"+appImg+"'>\
+                <img src='detail/appImage.png'>\
             </div>\
             <div class='col-xs-7 centered lefted'>\
                 <div class='spacing-xs'>\
-                    <img src='detail/radioApp.png'>\
-                    <h2>영어 라디오 PRO</h2>\
+                    <img src='detail/appIcon.png'>\
+                    <h2>" + appName + "</h2>\
                     <p>\
-                        '영어 라디오 PRO - News & Talk'는<br>\
-                        영어권 국가의 토크, 뉴스 위주의 라디오 채널을<br>\
-                        모아놓은 간편한 라디오 앱입니다.\
+                    " + appIntro + "\
                     </p>\
-                    <a href='https://itunes.apple.com/kr/app/%EC%98%81%EC%96%B4-%EB%9D%BC%EB%94%94%EC%98%A4-pro-%EB%89%B4%EC%8A%A4-%ED%86%A0%ED%81%AC/id1217141104?mt=8'>\
+                    <a href='" + appStore + "'>\
                         <img src='../../../commons/goToAppStore.png' class='gotoapp' />\
                     </a>\
                 </div>\
-                <h4>프로젝트 웹사이트 : <a href='https://projectintheclass.github.io/DayFeel/'>https://projectintheclass.github.io/DayFeel/</a></h4>\
-                <h4>소스 코드 : <a href='https://github.com/ProjectInTheClass/DayFeel'>https://github.com/ProjectInTheClass/DayFeel</a></h4>\
+                <h4>프로젝트 웹사이트 : <a href='" + website + "'>" + website + "</a></h4>\
+                <h4>소스 코드 : <a href='" + sourceCode + "'>" + sourceCode + "</a></h4>\
             </div>\
         </div>\
     </div>\
@@ -111,7 +120,7 @@ function fillHeader() {
             <h3>발표 동영상</h3>\
         </div>\
         <div class='centered'>\
-            <iframe width='560' height='315' src='https://www.youtube.com/embed/MHSgo6I1Pec?rel=0' frameborder='0' gesture='media' allow='encrypted-media' allowfullscreen></iframe>\
+            <iframe width='560' height='315' src='" + video + "' frameborder='0' gesture='media' allow='encrypted-media' allowfullscreen></iframe>\
         </div>\
     </div>\
     <div class='container spacing-md'>\
@@ -130,13 +139,13 @@ function fillHeader() {
             <h4>Issue Created</h4>\
         </div>\
         <div class='centered spacing-xs'>\
-            <img src='detail/issue.png' style='width:80%''/>\
+            <img src='detail/issueCreated.png' style='width:80%''/>\
         </div>\
         <div class='subtitle'>\
             <h4>Issue Closed</h4>\
         </div>\
         <div class='centered'>\
-            <img src='detail/issue.png' style='width:80%'/>\
+            <img src='detail/issueClosed.png' style='width:80%'/>\
         </div>\
     </div>\
     <div class='container spacing-md'>\
@@ -144,13 +153,13 @@ function fillHeader() {
             <h3>Noteworthy Commits</h3>\
         </div>\
         <div class='noteworthy-commit'>\
-            1. alert modify : <a href='https://github.com/ProjectInTheClass/DayFeel/commit/5585918baa295df7aa33f0ccd4172fc1b6b3e63d?diff=unified'>https://github.com/ProjectInTheClass/DayFeel/commit/5585918baa295df7aa33f0ccd4172fc1b6b3e63d?diff=unified</a>\
+            1. alert modify : <a href='" + commit1 + "'>" + commit1 + "</a>\
         </div>\
         <div class='noteworthy-commit'>\
-            1. alert modify : <a href='https://github.com/ProjectInTheClass/DayFeel/commit/5585918baa295df7aa33f0ccd4172fc1b6b3e63d?diff=unified'>https://github.com/ProjectInTheClass/DayFeel/commit/5585918baa295df7aa33f0ccd4172fc1b6b3e63d?diff=unified</a>\
+            2. table cell : <a href='" + commit2 + "'>" + commit2 + "</a>\
         </div>\
         <div class='noteworthy-commit'>\
-        1. alert modify : <a href='https://github.com/ProjectInTheClass/DayFeel/commit/5585918baa295df7aa33f0ccd4172fc1b6b3e63d?diff=unified'>https://github.com/ProjectInTheClass/DayFeel/commit/5585918baa295df7aa33f0ccd4172fc1b6b3e63d?diff=unified</a>\
+            3. registration : <a href='" + commit3 + "'>" + commit3 + "</a>\
         </div>\
     </div>\
     <div class='container spacing-md'>\
@@ -161,10 +170,10 @@ function fillHeader() {
             <h4>Swift 언어 퀴즈</h4>\
         </div>\
         <div class='test'>\
-            시험일 : 2017년 9월 12일\
+            시험일 : " + testPeriod + "\
         </div>\
-        <div class='centered'>\
-            점수 : 100\
+        <div class='test'>\
+            점수 : " + testScore + "\
         </div>\
     </div>\
     ";
