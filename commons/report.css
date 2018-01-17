@@ -21,12 +21,17 @@ header .top {
     background-repeat: no-repeat;
 }
 
-header .lang_button {
-    margin-top: 20px;
-    margin-left: 50px;
+header .num {
+    padding-top: 120px;
+    padding-left: 86px;
 }
 
-header .name {
+header .lang_button {
+    margin-top: 20px;
+    margin-left: 86px;
+}
+
+    header .name {
     padding-top: 80px;
     padding-bottom: 70px;
     margin-left: 30px;
@@ -35,54 +40,84 @@ header .name {
     font-size: 70px;
     letter-spacing: 30px;
 
+    }
+
+    header .report_title {
+        margin-top: -140px;
+        margin-left: 100px;
+        margin-bottom: 50px;
+    }
+
+    header .report_title p {
+        color: #5D5F63;
+        font-weight: bold;
+        font-size: 40px;
+        margin : 0px;
+        padding: 5px;
+    }
+
+    header .title_korean {
+        letter-spacing: 14px;
+    }
+
+    header .title_eng {
+        margin-bottom: 120px;
+    }
+
+    header .description {
+        margin-bottom: 50px;
+    }
+
+    header .description p {
+        color: #5D5F63;
+        text-align: center;
+        font-weight: normal;
+        font-size: 40px;
+        margin : 0px;
+        padding: 5px;
+    }
+
+    header .course {
+        margin-left: 50px;
+        font-size: 20px;
+        letter-spacing: 5px;
+        line-height: 200%;
+    }
+
+
+    .report-detail {
+        text-align: center;
+        font-size: 40px;
+        font-family: 'Noto Sans KR', sans-serif;
+        margin-bottom: 50px;
+    }
+
+
+/*
+    .word-spacing {
+        margin-left: 56px;
+    } */
+    .word-spacing {
+        margin-left: 48px;
+    }
+
+@media (max-width: 375px) {
+    header .course {
+        margin-left: 50px;
+        font-size: 10px;
+        letter-spacing: 2px;
+        line-height: 200%;
+    }
+
+    .word-spacing {
+        margin-left: 56px;
+    }
+
+    header .container {
+        margin-left: 60px;
+    }
 }
 
-header .num {
-    padding-top: 120px;
-    padding-left: 50px;
-}
-
-header .report_title {
-    margin-top: -140px;
-    margin-left: 100px;
-    margin-bottom: 50px;
-}
-
-header .report_title p {
-    color: #5D5F63;
-    font-weight: bold;
-    font-size: 40px;
-    margin : 0px;
-    padding: 5px;
-}
-
-header .title_korean {
-    letter-spacing: 14px;
-}
-
-header .title_eng {
-    margin-bottom: 120px;
-}
-
-header .description {
-    margin-bottom: 50px;
-}
-
-header .description p {
-    color: #5D5F63;
-    text-align: center;
-    font-weight: normal;
-    font-size: 40px;
-    margin : 0px;
-    padding: 5px;
-}
-
-header .course {
-    margin-left: 50px;
-    font-size: 20px;
-    letter-spacing: 5px;
-    line-height: 200%;
-}
 
 header .course-spacing {
     margin-left: 44px;
@@ -105,9 +140,6 @@ header .period-spacing {
     margin-bottom: 150px;
 }
 
-.word-spacing {
-    margin-left: 48px;
-}
 
 article {
     font-family: 'Noto Sans KR', sans-serif;
@@ -164,7 +196,7 @@ footer .edulogo {
 .title {
     font-family: 'Noto Sans KR', sans-serif;
     font-size: 24px;
-    margin-left: 20px;
+    margin-left: 10px;
     margin-bottom: 50px;
 }
 
@@ -214,4 +246,8 @@ footer .edulogo {
 
 .noteworthy-commit {
     margin-left: 100px;
+}
+
+.content {
+    margin-left: 86px;
 }

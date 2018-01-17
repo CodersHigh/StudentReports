@@ -121,10 +121,10 @@ function fillHeaderKor() {
             <h3>앱 정보</h3>\
         </div>\
         <div class='row'>\
-            <div class='col-xs-5 centered'>\
+            <div class='col-xs-5'>\
                 <img src='detail/appImage.png'>\
             </div>\
-            <div class='col-xs-7 centered lefted'>\
+            <div class='col-xs-7 lefted'>\
                 <div class='spacing-xs'>\
                     <img src='detail/appIcon.png'>\
                     <h2>" + appName + "</h2>\
@@ -160,16 +160,16 @@ function fillHeaderKor() {
         <div class='title'>\
             <h3>프로젝트 팀 작업 단계</h3>\
         </div>\
-        <div class='subtitle'>\
+        <div class='content'>\
             <h4>Issue Created</h4>\
         </div>\
-        <div class='centered spacing-xs'>\
+        <div class='content spacing-sm'>\
             <img src='detail/issueCreated.png' style='width:80%''/>\
         </div>\
-        <div class='subtitle'>\
+        <div class='content'>\
             <h4>Issue Closed</h4>\
         </div>\
-        <div class='centered'>\
+        <div class='content'>\
             <img src='detail/issueClosed.png' style='width:80%'/>\
         </div>\
     </div>\
@@ -177,13 +177,13 @@ function fillHeaderKor() {
         <div class='title'>\
             <h3>Noteworthy Commits</h3>\
         </div>\
-        <div class='noteworthy-commit'>\
+        <div class='content'>\
             1. alert modify : <a href='" + commit1 + "'>" + commit1 + "</a>\
         </div>\
-        <div class='noteworthy-commit'>\
+        <div class='content'>\
             2. table cell : <a href='" + commit2 + "'>" + commit2 + "</a>\
         </div>\
-        <div class='noteworthy-commit'>\
+        <div class='content'>\
             3. registration : <a href='" + commit3 + "'>" + commit3 + "</a>\
         </div>\
     </div>\
@@ -191,13 +191,13 @@ function fillHeaderKor() {
         <div class='title'>\
             <h3>개발 학습 단계</h3>\
         </div>\
-        <div class='subtitle'>\
+        <div class='content'>\
             <h4>Swift 언어 퀴즈</h4>\
         </div>\
-        <div class='test'>\
+        <div class='content'>\
             시험일 : " + testPeriod + "\
         </div>\
-        <div class='test'>\
+        <div class='content'>\
             점수 : " + testScore + "\
         </div>\
     </div>\
@@ -316,16 +316,16 @@ function fillHeaderEng() {
         <div class='title'>\
             <h3>Team Project Working</h3>\
         </div>\
-        <div class='subtitle'>\
+        <div class='content'>\
             <h4>Issue Created</h4>\
         </div>\
-        <div class='centered spacing-xs'>\
+        <div class='content spacing-sm'>\
             <img src='detail/issueCreated.png' style='width:80%''/>\
         </div>\
-        <div class='subtitle'>\
+        <div class='content'>\
             <h4>Issue Closed</h4>\
         </div>\
-        <div class='centered'>\
+        <div class='content'>\
             <img src='detail/issueClosed.png' style='width:80%'/>\
         </div>\
     </div>\
@@ -333,13 +333,13 @@ function fillHeaderEng() {
         <div class='title'>\
             <h3>Noteworthy Commits</h3>\
         </div>\
-        <div class='noteworthy-commit'>\
+        <div class='content'>\
             1. alert modify : <a href='" + commit1 + "'>" + commit1 + "</a>\
         </div>\
-        <div class='noteworthy-commit'>\
+        <div class='content'>\
             2. table cell : <a href='" + commit2 + "'>" + commit2 + "</a>\
         </div>\
-        <div class='noteworthy-commit'>\
+        <div class='content'>\
             3. registration : <a href='" + commit3 + "'>" + commit3 + "</a>\
         </div>\
     </div>\
@@ -347,13 +347,13 @@ function fillHeaderEng() {
         <div class='title'>\
             <h3>Development Learning</h3>\
         </div>\
-        <div class='subtitle'>\
+        <div class='content'>\
             <h4>Swift Quiz</h4>\
         </div>\
-        <div class='test'>\
+        <div class='content'>\
             Date : " + testPeriod + "\
         </div>\
-        <div class='test'>\
+        <div class='content'>\
             Score : " + testScore + "\
         </div>\
     </div>\
