@@ -97,7 +97,11 @@ header .lang_button {
     .word-spacing {
         margin-left: 56px;
     } */
-    .word-spacing {
+    header .word-spacing {
+        margin-left: 48px;
+    }
+
+    header .word-spacing-eng {
         margin-left: 48px;
     }
 
@@ -105,16 +109,19 @@ header .lang_button {
     header .course {
         margin-left: 50px;
         font-size: 10px;
-        letter-spacing: 2px;
+        letter-spacing: 1px;
         line-height: 200%;
     }
 
-    .word-spacing {
-        margin-left: 56px;
+    header .word-spacing {
+        margin-left: 60px;
+    }
+
+    header .word-spacing-eng {
+        margin-left: 54px;
     }
 
     header .container {
-        margin-left: 60px;
     }
 }
 
@@ -125,6 +132,27 @@ header .course-spacing {
 
 header .period-spacing {
     margin-left: 50px;
+}
+
+header .width-40 {
+    width: 40%;
+    display: inline-block;
+    position: relative;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 100px;
+    float: left;
+}
+
+header .width-60 {
+    width: 60%;
+    display: inline-block;
+    position: relative;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+    float: left;
+    size:20%;
 }
 
 .report-detail {
@@ -156,10 +184,6 @@ footer .bottom {
     height: 200px;
     background-repeat: no-repeat;
     margin-left: 0px;
-}
-
-footer .word-spacing {
-    margin-left: 36px;
 }
 
 footer .word-spacing-m {

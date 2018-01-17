@@ -121,10 +121,10 @@ function fillHeaderKor() {
             <h3>앱 정보</h3>\
         </div>\
         <div class='row'>\
-            <div class='col-xs-5'>\
+            <div class='width-40'>\
                 <img src='detail/appImage.png'>\
             </div>\
-            <div class='col-xs-7 lefted'>\
+            <div class='width-60'>\
                 <div class='spacing-xs'>\
                     <img src='detail/appIcon.png'>\
                     <h2>" + appName + "</h2>\
@@ -263,7 +263,7 @@ function fillHeaderEng() {
             <div class='period-spacing'>Period : <span class='word-spacing'>" + period + "</span></div>\
         </div>\
         <div>\
-            <div>Instructor : </span><span class='word-spacing'>" + instructor + "</span></div>\
+            <div>Instructor : </span><span class='word-spacing-eng'>" + instructor + "</span></div>\
         </div>\
     </div>\
     <div class='spacing'></div>\
@@ -277,10 +277,10 @@ function fillHeaderEng() {
             <h3>App Information</h3>\
         </div>\
         <div class='row'>\
-            <div class='col-xs-5 centered'>\
+            <div class='width-40'>\
                 <img src='detail/appImage.png'>\
             </div>\
-            <div class='col-xs-7 centered lefted'>\
+            <div class='width-60'>\
                 <div class='spacing-xs'>\
                     <img src='detail/appIcon.png'>\
                     <h2>" + appName + "</h2>\
