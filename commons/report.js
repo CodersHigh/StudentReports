@@ -250,7 +250,7 @@ function fillHeaderEng() {
     <div class='report_title'>\
         <div class='title_eng'><p>STUDENT REPORT</p></div>\
     </div>\
-    <div class='name'>" + name + "</div>\
+    <div class='name-eng'>" + name + "</div>\
     <div class='description'>\
         <p>The student above has successfully completed</p>\
         <p>the course of CodersHigh.</p>\
