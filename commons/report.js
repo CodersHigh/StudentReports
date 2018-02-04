@@ -178,13 +178,13 @@ function fillHeaderKor() {
             <h3>Noteworthy Commits</h3>\
         </div>\
         <div class='content'>\
-            1. alert modify : <a href='" + commit1 + "'>" + commit1 + "</a>\
+            1. " + commit1 + "\
         </div>\
         <div class='content'>\
-            2. table cell : <a href='" + commit2 + "'>" + commit2 + "</a>\
+            2. " + commit2 + "\
         </div>\
         <div class='content'>\
-            3. registration : <a href='" + commit3 + "'>" + commit3 + "</a>\
+            3. " + commit3 + "\
         </div>\
     </div>\
     <div class='container spacing-md'>\
