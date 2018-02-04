@@ -6,21 +6,19 @@
                 "report_no" : "18-SWU-01-001",
                 "name" : "최수연",
                 "course" : "iOS App Design to Develop Course",
-                "period" : "",
-                "instructor" : "",
+                "period" : "2017년 12월 20일 ~ 2018년 1월 26일 ( 6주 150시간 )",
+                "instructor" : "박종욱, 박종영, 남장혁",
                 "appName" : "혜택을 담자",
-                "partner" : "이지아, 조수연, 권에진",
-                "appIntro" : "지금까지 사용한 카드, 혜택 다 받고 사용하셨나요?<br>
-                              알면서도 지나치게 되는 카드 혜택들!<br>
-                              이 앱을 통해 실적에 따른 혜택, 모두 받을 수 있습니다.",
+                "partner" : "이지아, 조수연, 권예진",
+                "appIntro" : "지금까지 사용한 카드, 혜택 다 받고 사용하셨나요?<br>알면서도 지나치게 되는 카드 혜택들!<br>이 앱을 통해 실적에 따른 헤택, 모두 받을 수 있습니다.",
                 "testPeriod" : "",
                 "testScore" : "",
                 "appStore" : "",
-                "website" : "https://projectintheclass.github.io/CardBenefitsNotification/",
+                "website" : "https://projectintheclass.github.io/CardBenefitsNotification",
                 "sourceCode" : "https://github.com/ProjectInTheClass/CardBenefitsNotification",
                 "video" : "https://www.youtube.com/embed/BEuf35U6yG0",
                 "commit1" : "83fab6e : 문자 복사한 내역을 불러오는데 성공, 점점 코딩이 재밌어지는 계기",
-                "commit2" : "6881f25 : json파일 형태로 저장은 했으나 file에서 read는 iOS11부터 deprecated 되었다는 것을 발견.. 좌절했지만 구글링하여 다시 core data라는것을 구현!",
+                "commit2" : "6881f25 : json파일 형태로 저장은 했으나 file에서 read는 iOS11부터 deprecated 되었다는 것을 발견. 좌절했지만 구글링하여 다시 core data라는것을 구현!",
                 "commit3" : "ab4d99d  : 이지아 팀원과 종로 카페에서 밤샘코딩한 결과, 복사한 문자들을 json파일 형태로 저장하는 데 성공."
 
             }

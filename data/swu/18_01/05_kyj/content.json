@@ -6,21 +6,19 @@
                 "report_no" : "18-SWU-01-005",
                 "name" : "권예진",
                 "course" : "iOS App Design to Develop Course",
-                "period" : "",
-                "instructor" : "",
-                "appName" : "",
-                "partner" : "",
-                "appIntro" : "",
+                "period" : "2017년 12월 20일 ~ 2018년 1월 26일 ( 6주 150시간 )",
+                "instructor" : "박종욱, 박종영, 남장혁",
+                "appName" : "혜택을 담자",
+                "partner" : "최수연, 이지아, 조수연",
+                "appIntro" : "지금까지 사용한 카드, 혜택 다 받고 사용하셨나요?<br>알면서도 지나치게 되는 카드 혜택들!<br>이 앱을 통해 실적에 따른 헤택, 모두 받을 수 있습니다.",
                 "testPeriod" : "",
                 "testScore" : "",
-                "appStore" : "",
-                "website" : "",
-                "sourceCode" : "",
-                "video" : "",
-                "commit1" : "",
-                "commit2" : "",
-                "commit3" : ""
-
+                "website" : "https://projectintheclass.github.io/CardBenefitsNotification",
+                "sourceCode" : "https://github.com/ProjectInTheClass/CardBenefitsNotification",
+                "video" : "https://www.youtube.com/embed/BEuf35U6yG0",
+                "commit1" : "문의를 메일로받기 : MFMailComposeViewController를 이용하여 문의하기 창을 띄어 문의를 할 수 있게 하였다.",
+                "commit2" : "Create README.md : README파일 작성",
+                "commit3" : "HistroyPayment 수정 : 결제내역을 cell을 section으로 만들어서 section의 header에 날짜로 표시해줌"
             }
         },
         {

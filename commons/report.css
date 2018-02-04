@@ -163,6 +163,8 @@ header .width-40 {
     padding-right: 15px;
     padding-left: 100px;
     float: left;
+    max-width: 380px;
+    height: auto;
 }
 
 header .width-60 {
@@ -171,9 +173,14 @@ header .width-60 {
     position: relative;
     min-height: 1px;
     padding-right: 15px;
-    padding-left: 15px;
+    padding-left: 40px;
     float: left;
     size:20%;
+
+}
+
+.appImage {
+
 }
 
 .report-detail {

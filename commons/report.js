@@ -122,21 +122,21 @@ function fillHeaderKor() {
         </div>\
         <div class='row'>\
             <div class='width-40'>\
-                <img src='detail/appImage.png'>\
+              <img src='resource/appImage.png'>\
             </div>\
             <div class='width-60'>\
                 <div class='spacing-xs'>\
-                    <img src='detail/appIcon.png'>\
+                    <img src='resource/appIcon.png'>\
                     <h2>" + appName + "</h2>\
                     <p>\
                     " + appIntro + "\
                     </p>\
                     <a href='" + appStore + "'>\
-                        <img src='../../../commons/goToAppStore.png' class='gotoapp' />\
+                        <img src='../../../../commons/goToAppStore.png' class='gotoapp' />\
                     </a>\
                 </div>\
-                <h4>프로젝트 웹사이트 : <a href='" + website + "'>" + website + "</a></h4>\
-                <h4>소스 코드 : <a href='" + sourceCode + "'>" + sourceCode + "</a></h4>\
+                <h4>프로젝트 웹사이트<br><a href='" + website + "'>" + website + "</a></h4>\
+                <h4>소스 코드<br><a href='" + sourceCode + "'>" + sourceCode + "</a></h4>\
             </div>\
         </div>\
     </div>\
@@ -153,7 +153,7 @@ function fillHeaderKor() {
             <h3>참여도</h3>\
         </div>\
         <div class='centered'>\
-            <img src='detail/contribute.png' style='width:40%'' />\
+            <img src='resource/contribute.png' style='width:40%'' />\
         </div>\
     </div>\
     <div class='container spacing-md'>\
@@ -164,13 +164,13 @@ function fillHeaderKor() {
             <h4>Issue Created</h4>\
         </div>\
         <div class='content spacing-sm'>\
-            <img src='detail/issueCreated.png' style='width:80%''/>\
+            <img src='resource/issueCreated.png' style='width:80%''/>\
         </div>\
         <div class='content'>\
             <h4>Issue Closed</h4>\
         </div>\
         <div class='content'>\
-            <img src='detail/issueClosed.png' style='width:80%'/>\
+            <img src='resource/issueClosed.png' style='width:80%'/>\
         </div>\
     </div>\
     <div class='container spacing-md'>\
@@ -185,20 +185,6 @@ function fillHeaderKor() {
         </div>\
         <div class='content'>\
             3. " + commit3 + "\
-        </div>\
-    </div>\
-    <div class='container spacing-md'>\
-        <div class='title'>\
-            <h3>개발 학습 단계</h3>\
-        </div>\
-        <div class='content'>\
-            <h4>Swift 언어 퀴즈</h4>\
-        </div>\
-        <div class='content'>\
-            시험일 : " + testPeriod + "\
-        </div>\
-        <div class='content'>\
-            점수 : " + testScore + "\
         </div>\
     </div>\
     ";
@@ -278,17 +264,17 @@ function fillHeaderEng() {
         </div>\
         <div class='row'>\
             <div class='width-40'>\
-                <img src='detail/appImage.png'>\
+                <img src='resource/appImage.png'>\
             </div>\
             <div class='width-60'>\
                 <div class='spacing-xs'>\
-                    <img src='detail/appIcon.png'>\
+                    <img src='resource/appIcon.png'>\
                     <h2>" + appName + "</h2>\
                     <p>\
                     " + appIntro + "\
                     </p>\
                     <a href='" + appStore + "'>\
-                        <img src='../../../commons/goToAppStore.png' class='gotoapp' />\
+                        <img src='../../../../commons/goToAppStore.png' class='gotoapp' />\
                     </a>\
                 </div>\
                 <h4>Project Website : <a href='" + website + "'>" + website + "</a></h4>\
@@ -309,7 +295,7 @@ function fillHeaderEng() {
             <h3>Contribution</h3>\
         </div>\
         <div class='centered'>\
-            <img src='detail/contribute.png' style='width:40%'' />\
+            <img src='resource/contribute.png' style='width:40%'' />\
         </div>\
     </div>\
     <div class='container spacing-md'>\
@@ -320,13 +306,13 @@ function fillHeaderEng() {
             <h4>Issue Created</h4>\
         </div>\
         <div class='content spacing-sm'>\
-            <img src='detail/issueCreated.png' style='width:80%''/>\
+            <img src='resource/issueCreated.png' style='width:80%''/>\
         </div>\
         <div class='content'>\
             <h4>Issue Closed</h4>\
         </div>\
         <div class='content'>\
-            <img src='detail/issueClosed.png' style='width:80%'/>\
+            <img src='resource/issueClosed.png' style='width:80%'/>\
         </div>\
     </div>\
     <div class='container spacing-md'>\
@@ -334,27 +320,13 @@ function fillHeaderEng() {
             <h3>Noteworthy Commits</h3>\
         </div>\
         <div class='content'>\
-            1. alert modify : <a href='" + commit1 + "'>" + commit1 + "</a>\
+            1. " + commit1 + "\
         </div>\
         <div class='content'>\
-            2. table cell : <a href='" + commit2 + "'>" + commit2 + "</a>\
+            2. " + commit2 + "\
         </div>\
         <div class='content'>\
-            3. registration : <a href='" + commit3 + "'>" + commit3 + "</a>\
-        </div>\
-    </div>\
-    <div class='container spacing-md'>\
-        <div class='title'>\
-            <h3>Development Learning</h3>\
-        </div>\
-        <div class='content'>\
-            <h4>Swift Quiz</h4>\
-        </div>\
-        <div class='content'>\
-            Date : " + testPeriod + "\
-        </div>\
-        <div class='content'>\
-            Score : " + testScore + "\
+            3. " + commit3 + "\
         </div>\
     </div>\
     ";
