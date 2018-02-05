@@ -16,7 +16,7 @@
                 "appStore" : "",
                 "website" : "https://projectintheclass.github.io/CardBenefitsNotification",
                 "sourceCode" : "https://github.com/ProjectInTheClass/CardBenefitsNotification",
-                "video" : "https://www.youtube.com/embed/BEuf35U6yG0",
+                "video" : "https://www.youtube.com/embed/9kB8ru-cbkI",
                 "commit1" : "commit1 : datePicker를 통한 날짜 알림이 현재 날짜보다 크지 않게, 그리고 시작날짜가 끝 날짜보다 크지 않고 끝 날짜가 시작날짜보다 작지 않게 toast메세지를 통해 알람하였다.",
                 "commit2" : "commit2 : core data에서 정보를 불러와 테이블뷰의 셀에서 가격과 어디서 사용했는지를 보여주는 뷰에서 헤더를 추가해 시간까지 표시해주게 하였다.",
                 "commit3" : "commit3 : 카드를 설정하는 버튼을 누르면 사용자가 추가한 카드의 이름을 불러와 사용자가 추가한 카드의 수만큼 for문을 돌려 alert문에 추가했다."

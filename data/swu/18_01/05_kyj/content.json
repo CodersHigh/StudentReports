@@ -15,7 +15,7 @@
                 "testScore" : "",
                 "website" : "https://projectintheclass.github.io/CardBenefitsNotification",
                 "sourceCode" : "https://github.com/ProjectInTheClass/CardBenefitsNotification",
-                "video" : "https://www.youtube.com/embed/BEuf35U6yG0",
+                "video" : "https://www.youtube.com/embed/9kB8ru-cbkI",
                 "commit1" : "문의를 메일로받기 : MFMailComposeViewController를 이용하여 문의하기 창을 띄어 문의를 할 수 있게 하였다.",
                 "commit2" : "Create README.md : README파일 작성",
                 "commit3" : "HistroyPayment 수정 : 결제내역을 cell을 section으로 만들어서 section의 header에 날짜로 표시해줌"
