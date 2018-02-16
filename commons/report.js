@@ -126,7 +126,7 @@ function fillHeaderKor() {
             </div>\
             <div class='width-60'>\
                 <div class='spacing-xs'>\
-                    <img src='resource/appIcon.png'>\
+                    <img src='resource/appIcon.png' style='width:150px; border-radius:25%;'>\
                     <h2>" + appName + "</h2>\
                     <p>\
                     " + appIntro + "\
