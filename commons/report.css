@@ -126,7 +126,7 @@ header .lang_button {
         margin-left: 36px;
     }
 
-@media (max-width: 375px) {
+@media (max-width: 720px) {
     header .course {
         margin-left: 50px;
         font-size: 10px;
