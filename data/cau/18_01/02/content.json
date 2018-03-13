@@ -8,6 +8,7 @@
                 "course" : "iOS App Design to Develop Course",
                 "period" : "2017년 12월 19일 ~ 2018년 2월 12일(8주 135시간)",
                 "instructor" : "고준일, 김태선, 남장혁",
+                "appIcon" : "",
                 "appName" : "모으다",
                 "partner" : "이예주",
                 "appIntro" : "책을 좋아하는 사람들을 위한, 책 속 문장을 남길 수 있는 기능을 가진 앱",
@@ -19,7 +20,9 @@
                 "video" : "https://www.youtube.com/embed/V6rgTDeOfwI",
                 "commit1" : "",
                 "commit2" : "",
-                "commit3" : ""
+                "commit3" : "",
+                "issueCreated" : "true",
+                "issueClosed" : "true"
 
             }
         },
@@ -31,6 +34,7 @@
               "course" : "iOS App Design to Develop Course",
               "period" : "2017년 12월 19일 ~ 2018년 2월 12일(8주 135시간)",
               "instructor" : "고준일, 김태선, 남장혁",
+              "appIcon" : "",
               "appName" : "",
               "partner" : "",
               "appIntro" : "책을 좋아하는 사람들을 위한, 책 속 문장을 남길 수 있는 기능을 가진 앱",
@@ -42,7 +46,9 @@
               "video" : "https://www.youtube.com/embed/V6rgTDeOfwI",
               "commit1" : "",
               "commit2" : "",
-              "commit3" : ""
+              "commit3" : "",
+              "issueCreated" : "true",
+              "issueClosed" : "true"
             }
         }
     ]

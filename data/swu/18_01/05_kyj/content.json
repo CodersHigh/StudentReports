@@ -18,7 +18,10 @@
                 "video" : "https://www.youtube.com/embed/9kB8ru-cbkI",
                 "commit1" : "문의를 메일로받기 : MFMailComposeViewController를 이용하여 문의하기 창을 띄어 문의를 할 수 있게 하였다.",
                 "commit2" : "Create README.md : README파일 작성",
-                "commit3" : "HistroyPayment 수정 : 결제내역을 cell을 section으로 만들어서 section의 header에 날짜로 표시해줌"
+                "commit3" : "HistroyPayment 수정 : 결제내역을 cell을 section으로 만들어서 section의 header에 날짜로 표시해줌",
+                "issueCreated" : "true",
+                "issueClosed" : "true",
+                "appIcon" : ""
             }
         },
         {
@@ -40,7 +43,10 @@
                   "video" : "",
                   "commit1" : "",
                   "commit2" : "",
-                  "commit3" : ""
+                  "commit3" : "",
+                  "issueCreated" : "true",
+                  "issueClosed" : "true",
+                  "appIcon" : ""
             }
         }
     ]

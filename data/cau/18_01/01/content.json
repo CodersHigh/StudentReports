@@ -8,6 +8,7 @@
                 "course" : "iOS App Design to Develop Course",
                 "period" : "2017년 12월 19일 ~ 2018년 2월 12일(8주 135시간)",
                 "instructor" : "고준일, 김태선, 남장혁",
+                "appIcon" : "",
                 "appName" : "총무다",
                 "partner" : "오태일, 장준혁",
                 "appIntro" : "모든 학교 총무들을 위한 예산관리 APP!",
@@ -19,7 +20,9 @@
                 "video" : "https://www.youtube.com/embed/Udt5JecZF9o",
                 "commit1" : "",
                 "commit2" : "",
-                "commit3" : ""
+                "commit3" : "",
+                "issueCreated" : "true",
+                "issueClosed" : "true"
 
             }
         },
@@ -31,6 +34,7 @@
               "course" : "iOS App Design to Develop Course",
               "period" : "2017년 12월 19일 ~ 2018년 2월 12일(8주 135시간)",
               "instructor" : "고준일, 김태선, 남장혁",
+              "appIcon" : "",
               "appName" : "",
               "partner" : "",
               "appIntro" : "",
@@ -42,7 +46,9 @@
               "video" : "https://www.youtube.com/embed/Udt5JecZF9o",
               "commit1" : "",
               "commit2" : "",
-              "commit3" : ""
+              "commit3" : "",
+              "issueCreated" : "true",
+              "issueClosed" : "true"
             }
         }
     ]

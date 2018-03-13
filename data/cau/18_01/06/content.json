@@ -8,6 +8,7 @@
                 "course" : "iOS App Design to Develop Course",
                 "period" : "2017년 12월 19일 ~ 2018년 2월 12일(8주 135시간)",
                 "instructor" : "고준일, 김태선, 남장혁",
+                "appIcon" : "true",
                 "appName" : "BestBefore",
                 "partner" : "홍세정, 류효광",
                 "appIntro" : "소형가구를 위한, 냉장고 관리가 어려운 사람을 위한,<br>유통기한 알림 어플",
@@ -19,7 +20,9 @@
                 "video" : "https://www.youtube.com/embed/OG6i7-KDB44",
                 "commit1" : "",
                 "commit2" : "",
-                "commit3" : ""
+                "commit3" : "",
+                "issueCreated" : "true",
+                "issueClosed" : "true"
 
             }
         },
@@ -31,6 +34,7 @@
               "course" : "iOS App Design to Develop Course",
               "period" : "2017년 12월 19일 ~ 2018년 2월 12일(8주 135시간)",
               "instructor" : "고준일, 김태선, 남장혁",
+              "appIcon" : "true",
               "appName" : "BestBefore",
               "partner" : "홍세정, 류효광",
               "appIntro" : "소형가구를 위한, 냉장고 관리가 어려운 사람을 위한,<br>유통기한 알림 어플",
@@ -42,7 +46,9 @@
               "video" : "https://www.youtube.com/embed/OG6i7-KDB44",
               "commit1" : "",
               "commit2" : "",
-              "commit3" : ""
+              "commit3" : "",
+              "issueCreated" : "true",
+              "issueClosed" : "true"
             }
         }
     ]

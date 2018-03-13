@@ -17,7 +17,10 @@
                 "video" : "https://www.youtube.com/embed/bPU-FZ7ukpM",
                 "commit1" : "",
                 "commit2" : "",
-                "commit3" : ""
+                "commit3" : "",
+                "issueCreated" : "true",
+                "issueClosed" : "true",
+                "appIcon" : ""
 
             }
         },
@@ -38,7 +41,10 @@
                 "video" : "https://www.youtube.com/embed/bPU-FZ7ukpM",
                 "commit1" : "",
                 "commit2" : "",
-                "commit3" : ""
+                "commit3" : "",
+                "issueCreated" : "true",
+                "issueClosed" : "true",
+                "appIcon" : ""
             }
         }
     ]

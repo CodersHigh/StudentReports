@@ -8,6 +8,7 @@
                 "course" : "iOS App Design to Develop Course",
                 "period" : "2017년 12월 19일 ~ 2018년 2월 12일(8주 135시간)",
                 "instructor" : "고준일, 김태선, 남장혁",
+                "appIcon" : "",
                 "appName" : "ForYou",
                 "partner" : "배준하, 조혁만",
                 "appIntro" : "온라인 쇼핑을 주로 하는 20~30대 청년들을 위한 의류 3D 피팅 및 구매 어플리케이션<br>Style, Preference and 3D Model for You",
@@ -19,7 +20,9 @@
                 "video" : "https://www.youtube.com/embed/b8HopTvKU_E",
                 "commit1" : "",
                 "commit2" : "",
-                "commit3" : ""
+                "commit3" : "",
+                "issueCreated" : "",
+                "issueClosed" : "true"
 
             }
         },
@@ -31,6 +34,7 @@
               "course" : "iOS App Design to Develop Course",
               "period" : "2017년 12월 19일 ~ 2018년 2월 12일(8주 135시간)",
               "instructor" : "고준일, 김태선, 남장혁",
+              "appIcon" : "",
               "appName" : "ForYou",
               "partner" : "배준하, 조혁만",
               "appIntro" : "온라인 쇼핑을 주로 하는 20~30대 청년들을 위한 의류 3D 피팅 및 구매 어플리케이션<br>Style, Preference and 3D Model for You",
@@ -42,7 +46,9 @@
               "video" : "https://www.youtube.com/embed/b8HopTvKU_E",
               "commit1" : "",
               "commit2" : "",
-              "commit3" : ""
+              "commit3" : "",
+              "issueCreated" : "",
+              "issueClosed" : "true"
             }
         }
     ]

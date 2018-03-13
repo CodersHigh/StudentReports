@@ -8,6 +8,7 @@
                 "course" : "iOS App Design to Develop Course",
                 "period" : "2017년 12월 19일 ~ 2018년 2월 12일(8주 135시간)",
                 "instructor" : "고준일, 김태선, 남장혁",
+                "appIcon" : "",
                 "appName" : "OURSNAP",
                 "partner" : "노수린, 이윤주",
                 "appIntro" : "특별한 순간을 화보처럼 간직하고싶은 분들을 위한<br>원하는 컨셉과 느낌의 사진을 찍어주는<br>사진작가와 스튜디오를 찾아주는 앱",
@@ -19,7 +20,9 @@
                 "video" : "https://www.youtube.com/embed/MNOXz3Lmy0g",
                 "commit1" : "",
                 "commit2" : "",
-                "commit3" : ""
+                "commit3" : "",
+                "issueCreated" : "",
+                "issueClosed" : ""
 
             }
         },
@@ -31,6 +34,7 @@
               "course" : "iOS App Design to Develop Course",
               "period" : "2017년 12월 19일 ~ 2018년 2월 12일(8주 135시간)",
               "instructor" : "고준일, 김태선, 남장혁",
+              "appIcon" : "",
               "appName" : "OURSNAP",
               "partner" : "노수린, 이윤주",
               "appIntro" : "특별한 순간을 화보처럼 간직하고싶은 분들을 위한<br>원하는 컨셉과 느낌의 사진을 찍어주는<br>사진작가와 스튜디오를 찾아주는 앱",
@@ -42,7 +46,9 @@
               "video" : "https://www.youtube.com/embed/MNOXz3Lmy0g",
               "commit1" : "",
               "commit2" : "",
-              "commit3" : ""
+              "commit3" : "",
+              "issueCreated" : "",
+              "issueClosed" : ""
             }
         }
     ]

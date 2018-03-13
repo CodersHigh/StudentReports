@@ -8,6 +8,7 @@
                 "course" : "iOS App Design to Develop Course",
                 "period" : "2017년 12월 19일 ~ 2018년 2월 12일(8주 135시간)",
                 "instructor" : "고준일, 김태선, 남장혁",
+                "appIcon" : "",
                 "appName" : "기숙사알리미",
                 "partner" : "안재형, 강제순",
                 "appIntro" : "공지사항부터 생활정보까지, 모든 것을 한 눈에",
@@ -19,7 +20,9 @@
                 "video" : "https://www.youtube.com/embed/CmXXqvfjHbg",
                 "commit1" : "",
                 "commit2" : "",
-                "commit3" : ""
+                "commit3" : "",
+                "issueCreated" : "true",
+                "issueClosed" : "true"
 
             }
         },
@@ -31,6 +34,7 @@
               "course" : "iOS App Design to Develop Course",
               "period" : "2017년 12월 19일 ~ 2018년 2월 12일(8주 135시간)",
               "instructor" : "고준일, 김태선, 남장혁",
+              "appIcon" : "",
               "appName" : "기숙사알리미",
               "partner" : "안재형, 강제순",
               "appIntro" : "공지사항부터 생활정보까지, 모든 것을 한 눈에",
@@ -42,7 +46,9 @@
               "video" : "https://www.youtube.com/embed/CmXXqvfjHbg",
               "commit1" : "",
               "commit2" : "",
-              "commit3" : ""
+              "commit3" : "",
+              "issueCreated" : "true",
+              "issueClosed" : "true"
             }
         }
     ]
