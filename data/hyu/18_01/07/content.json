@@ -1,0 +1,51 @@
+{
+    "contents" : [
+        {
+            "lang" : "ko",
+            "content" : {
+                "report_no" : "18-KU-01-007",
+                "name" : "이가은",
+                "course" : "iOS App Design to Develop course",
+                "period" : "2017년 12월 20일 ~ 2018년 1월 26일 (6주 150시간)",
+                "instructor" : "박종욱, 박종영, 남장혁",
+                "appName" : "GA-Z-A",
+                "partner" : "전신영, 김경린",
+                "appIntro" : "여행과 사진을 사랑하는 사람을 위한,<br>간단하게 여행을 포스팅하여 지도상에서 확인할 수 있는 앱",
+                "appStore" : "",
+                "website" : "https://projectintheclass.github.io/GAZZA/",
+                "sourceCode" : "https://github.com/ProjectInTheClass/GAZZA",
+                "video" : "https://www.youtube.com/embed/vvakY1WjmM4",
+                "commit1" : "",
+                "commit2" : "",
+                "commit3" : "",
+                "issueCreated" : "true",
+                "issueClosed" : "true",
+                "appIcon" : ""
+
+            }
+        },
+        {
+            "lang" : "en",
+            "content" : {
+                "report_no" : "18-KU-01-007",
+                "name" : "이가은",
+                "course" : "iOS App Design to Develop course",
+                "period" : "2017년 12월 20일 ~ 2018년 1월 26일 (6주 150시간)",
+                "instructor" : "박종욱, 박종영, 남장혁",
+                "appName" : "GA-Z-A",
+                "partner" : "전신영, 김경린",
+                "appIntro" : "여행과 사진을 사랑하는 사람을 위한,<br>간단하게 여행을 포스팅하여 지도상에서 확인할 수 있는 앱",
+                "appStore" : "",
+                "website" : "https://projectintheclass.github.io/GAZZA/",
+                "sourceCode" : "https://github.com/ProjectInTheClass/GAZZA",
+                "video" : "https://www.youtube.com/embed/vvakY1WjmM4",
+                "commit1" : "",
+                "commit2" : "",
+                "commit3" : "",
+                "issueCreated" : "true",
+                "issueClosed" : "true",
+                "appIcon" : ""
+            }
+        }
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "contents" : [
+        {
+            "lang" : "ko",
+            "content" : {
+                "report_no" : "18-KU-01-015",
+                "name" : "이태훈",
+                "course" : "iOS App Design to Develop course",
+                "period" : "2017년 12월 20일 ~ 2018년 1월 26일 (6주 150시간)",
+                "instructor" : "박종욱, 박종영, 남장혁",
+                "appName" : "Record What You Want",
+                "partner" : "김현석, 엄현호",
+                "appIntro" : "수업 내용을 녹음하는 학생들을 위한,<br>한 번의 터치로 수업 자료 각 포인트에 녹음을 할 수 있게 해주는,<br>복습을 더 편하게 할 수 있는 앱.",
+                "appStore" : "",
+                "website" : "https://projectintheclass.github.io/Lecture_Record/",
+                "sourceCode" : "https://github.com/ProjectInTheClass/Lecture_Record/",
+                "video" : "https://www.youtube.com/embed/bPU-FZ7ukpM",
+                "commit1" : "",
+                "commit2" : "",
+                "commit3" : "",
+                "issueCreated" : "true",
+                "issueClosed" : "true",
+                "appIcon" : ""
+
+            }
+        },
+        {
+            "lang" : "en",
+            "content" : {
+                "report_no" : "18-KU-01-015",
+                "name" : "이태훈",
+                "course" : "iOS App Design to Develop course",
+                "period" : "2017년 12월 20일 ~ 2018년 1월 26일 (6주 150시간)",
+                "instructor" : "박종욱, 박종영, 남장혁",
+                "appName" : "Record What You Want",
+                "partner" : "김현석, 엄현호",
+                "appIntro" : "수업 내용을 녹음하는 학생들을 위한,<br>한 번의 터치로 수업 자료 각 포인트에 녹음을 할 수 있게 해주는,<br>복습을 더 편하게 할 수 있는 앱.",
+                "appStore" : "",
+                "website" : "https://projectintheclass.github.io/Lecture_Record/",
+                "sourceCode" : "https://github.com/ProjectInTheClass/Lecture_Record/",
+                "video" : "https://www.youtube.com/embed/bPU-FZ7ukpM",
+                "commit1" : "",
+                "commit2" : "",
+                "commit3" : "",
+                "issueCreated" : "true",
+                "issueClosed" : "true",
+                "appIcon" : ""
+            }
+        }
+    ]
+}

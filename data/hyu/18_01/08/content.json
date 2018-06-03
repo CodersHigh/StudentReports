@@ -1,0 +1,51 @@
+{
+    "contents" : [
+        {
+            "lang" : "ko",
+            "content" : {
+                "report_no" : "18-KU-01-008",
+                "name" : "임채현",
+                "course" : "iOS App Design to Develop course",
+                "period" : "2017년 12월 20일 ~ 2018년 1월 26일 (6주 150시간)",
+                "instructor" : "박종욱, 박종영, 남장혁",
+                "appName" : "C - Lib",
+                "partner" : "배상엽",
+                "appIntro" : "다양한 패션 스타일을 구사하고 싶거나 소유하고 있는<br>의류를 활용하고 싶은 사람을 위한 공유 플랫폼.",
+                "appStore" : "",
+                "website" : "https://projectintheclass.github.io/Sharing-Clothes/",
+                "sourceCode" : "https://github.com/ProjectInTheClass/Sharing-Clothes",
+                "video" : "https://www.youtube.com/embed/DVR8_ijsMgw",
+                "commit1" : "",
+                "commit2" : "",
+                "commit3" : "",
+                "issueCreated" : "true",
+                "issueClosed" : "true",
+                "appIcon" : ""
+
+            }
+        },
+        {
+            "lang" : "en",
+            "content" : {
+                "report_no" : "18-KU-01-008",
+                "name" : "임채현",
+                "course" : "iOS App Design to Develop course",
+                "period" : "2017년 12월 20일 ~ 2018년 1월 26일 (6주 150시간)",
+                "instructor" : "박종욱, 박종영, 남장혁",
+                "appName" : "C - Lib",
+                "partner" : "배상엽",
+                "appIntro" : "다양한 패션 스타일을 구사하고 싶거나 소유하고 있는<br>의류를 활용하고 싶은 사람을 위한 공유 플랫폼.",
+                "appStore" : "",
+                "website" : "https://projectintheclass.github.io/Sharing-Clothes/",
+                "sourceCode" : "https://github.com/ProjectInTheClass/Sharing-Clothes",
+                "video" : "https://www.youtube.com/embed/DVR8_ijsMgw",
+                "commit1" : "",
+                "commit2" : "",
+                "commit3" : "",
+                "issueCreated" : "true",
+                "issueClosed" : "true",
+                "appIcon" : ""
+            }
+        }
+    ]
+}

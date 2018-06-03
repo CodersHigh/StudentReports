@@ -1,0 +1,51 @@
+{
+    "contents" : [
+        {
+            "lang" : "ko",
+            "content" : {
+                "report_no" : "18-KU-01-019",
+                "name" : "주승원",
+                "course" : "iOS App Design to Develop course",
+                "period" : "2017년 12월 20일 ~ 2018년 1월 26일 (6주 150시간)",
+                "instructor" : "박종욱, 박종영, 남장혁",
+                "appName" : "잠자기5분전",
+                "partner" : "김보경, 최원미",
+                "appIntro" : "감수성이 풍부한 당신만을 위한 감성 생태계",
+                "appStore" : "",
+                "website" : "https://kawai6214.wixsite.com/5minutes",
+                "sourceCode" : "https://github.com/ProjectInTheClass/5MBUS",
+                "video" : "https://www.youtube.com/embed/t_uXl9q_Z8o",
+                "commit1" : "",
+                "commit2" : "",
+                "commit3" : "",
+                "issueCreated" : "true",
+                "issueClosed" : "true",
+                "appIcon" : ""
+
+            }
+        },
+        {
+            "lang" : "en",
+            "content" : {
+                "report_no" : "18-KU-01-019",
+                "name" : "주승원",
+                "course" : "iOS App Design to Develop course",
+                "period" : "2017년 12월 20일 ~ 2018년 1월 26일 (6주 150시간)",
+                "instructor" : "박종욱, 박종영, 남장혁",
+                "appName" : "잠자기5분전",
+                "partner" : "김보경, 최원미",
+                "appIntro" : "감수성이 풍부한 당신만을 위한 감성 생태계",
+                "appStore" : "",
+                "website" : "https://kawai6214.wixsite.com/5minutes",
+                "sourceCode" : "https://github.com/ProjectInTheClass/5MBUS",
+                "video" : "https://www.youtube.com/embed/t_uXl9q_Z8o",
+                "commit1" : "",
+                "commit2" : "",
+                "commit3" : "",
+                "issueCreated" : "true",
+                "issueClosed" : "true",
+                "appIcon" : ""
+            }
+        }
+    ]
+}

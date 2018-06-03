@@ -1,0 +1,47 @@
+{
+    "contents" : [
+        {
+            "lang" : "ko",
+            "content" : {
+              "course" : "iOS App Design to Develop course",
+              "period" : "2017년 12월 20일 ~ 2018년 1월 26일 (6주 150시간)",
+              "instructor" : "박종욱, 박종영, 남장혁",
+              "appName" : "문문",
+              "partner" : "성인규, 최용진",
+              "appIntro" : "당신의 삶에 영감을 불어넣을 365개의 질문!<br>각자의 멋진 대답으로 삶을 기록하고 공유할 수 있는 앱",
+              "appStore" : "",
+              "website" : "https://projectintheclass.github.io/QandA/",
+              "sourceCode" : "https://github.com/ProjectInTheClass/QandA",
+              "video" : "https://www.youtube.com/embed/duad_W0o3t0",
+              "commit1" : "",
+              "commit2" : "",
+              "commit3" : "",
+              "issueCreated" : "",
+              "issueClosed" : "",
+              "appIcon" : ""
+
+            }
+        },
+        {
+            "lang" : "en",
+            "content" : {
+                "course" : "iOS App Design to Develop course",
+                "period" : "2017년 12월 20일 ~ 2018년 1월 26일 (6주 150시간)",
+                "instructor" : "박종욱, 박종영, 남장혁",
+                "appName" : "문문",
+                "partner" : "성인규, 최용진",
+                "appIntro" : "당신의 삶에 영감을 불어넣을 365개의 질문!<br>각자의 멋진 대답으로 삶을 기록하고 공유할 수 있는 앱",
+                "appStore" : "",
+                "website" : "https://projectintheclass.github.io/QandA/",
+                "sourceCode" : "https://github.com/ProjectInTheClass/QandA",
+                "video" : "https://www.youtube.com/embed/duad_W0o3t0",
+                "commit1" : "",
+                "commit2" : "",
+                "commit3" : "",
+                "issueCreated" : "",
+                "issueClosed" : "",
+                "appIcon" : ""
+            }
+        }
+    ]
+}

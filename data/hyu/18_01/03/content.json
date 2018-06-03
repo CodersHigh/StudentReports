@@ -1,0 +1,51 @@
+{
+    "contents" : [
+        {
+            "lang" : "ko",
+            "content" : {
+                "report_no" : "18-KU-01-003",
+                "name" : "서정민",
+                "course" : "iOS App Design to Develop course",
+                "period" : "2017년 12월 20일 ~ 2018년 1월 26일 (6주 150시간)",
+                "instructor" : "박종욱, 박종영, 남장혁",
+                "appName" : "KUnet",
+                "partner" : "김재영, 김미리암",
+                "appIntro" : "고려대학교 내 한국인과 외국인 학생들의 활발한 교류를 돕는 맞춤형 매칭앱",
+                "appStore" : "",
+                "website" : "https://projectintheclass.github.io/KUnet/",
+                "sourceCode" : "https://githu앱b.com/ProjectInTheClass/KUnet",
+                "video" : "https://www.youtube.com/embed/fPGflvPKo0w",
+                "commit1" : "",
+                "commit2" : "",
+                "commit3" : "",
+                "issueCreated" : "true",
+                "issueClosed" : "true",
+                "appIcon" : "true"
+
+            }
+        },
+        {
+            "lang" : "en",
+            "content" : {
+                "report_no" : "18-KU-01-003",
+                "name" : "서정민",
+                "course" : "iOS App Design to Develop course",
+                "period" : "2017년 12월 20일 ~ 2018년 1월 26일 (6주 150시간)",
+                "instructor" : "박종욱, 박종영, 남장혁",
+                "appName" : "KUnet",
+                "partner" : "김재영, 김미리암",
+                "appIntro" : "고려대학교 내 한국인과 외국인 학생들의 활발한 교류를 돕는 맞춤형 매칭앱",
+                "appStore" : "",
+                "website" : "https://projectintheclass.github.io/KUnet/",
+                "sourceCode" : "https://githu앱b.com/ProjectInTheClass/KUnet",
+                "video" : "https://www.youtube.com/embed/fPGflvPKo0w",
+                "commit1" : "",
+                "commit2" : "",
+                "commit3" : "",
+                "issueCreated" : "true",
+                "issueClosed" : "true",
+                "appIcon" : "true"
+            }
+        }
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "contents" : [
+        {
+            "lang" : "ko",
+            "content" : {
+                "report_no" : "18-KU-01-005",
+                "name" : "신승우",
+                "course" : "iOS App Design to Develop course",
+                "period" : "2017년 12월 20일 ~ 2018년 1월 26일 (6주 150시간)",
+                "instructor" : "박종욱, 박종영, 남장혁",
+                "appName" : "명언위젯",
+                "partner" : "윤진용, 임민진",
+                "appIntro" : "사용자 맞춤 명언앱입니다.<br>위젯으로 사용자가 원하는 명언을 보여줍니다.<br>상태설정을 통해 자신이 원하는 명언을 받을 수 있습니다.",
+                "appStore" : "",
+                "website" : "",
+                "sourceCode" : "",
+                "video" : "https://www.youtube.com/embed/ohaguY3t1PM",
+                "commit1" : "",
+                "commit2" : "",
+                "commit3" : "",
+                "issueCreated" : "true",
+                "issueClosed" : "true",
+                "appIcon" : "true"
+
+            }
+        },
+        {
+            "lang" : "en",
+            "content" : {
+              "report_no" : "18-KU-01-005",
+              "name" : "신승우",
+              "course" : "iOS App Design to Develop course",
+              "period" : "2017년 12월 20일 ~ 2018년 1월 26일 (6주 150시간)",
+              "instructor" : "박종욱, 박종영, 남장혁",
+              "appName" : "명언위젯",
+              "partner" : "윤진용, 임민진",
+              "appIntro" : "사용자 맞춤 명언앱입니다.<br>위젯으로 사용자가 원하는 명언을 보여줍니다.<br>상태설정을 통해 자신이 원하는 명언을 받을 수 있습니다.",
+              "appStore" : "",
+              "website" : "",
+              "sourceCode" : "",
+              "video" : "https://www.youtube.com/embed/ohaguY3t1PM",
+              "commit1" : "",
+              "commit2" : "",
+              "commit3" : "",
+              "issueCreated" : "true",
+              "issueClosed" : "true",
+              "appIcon" : "true"
+            }
+        }
+    ]
+}
