@@ -3,48 +3,47 @@
         {
             "lang" : "ko",
             "content" : {
-                "report_no" : "18-KU-01-005",
-                "name" : "신승우",
-                "course" : "iOS App Design to Develop course",
-                "period" : "2017년 12월 20일 ~ 2018년 1월 26일 (6주 150시간)",
-                "instructor" : "박종욱, 박종영, 남장혁",
-                "appName" : "명언위젯",
-                "partner" : "윤진용, 임민진",
-                "appIntro" : "사용자 맞춤 명언앱입니다.<br>위젯으로 사용자가 원하는 명언을 보여줍니다.<br>상태설정을 통해 자신이 원하는 명언을 받을 수 있습니다.",
+                "report_no" : "18-HYU-01-005",
+                "name" : "김태우",
+                "course" : "iOS App Develop Course (한양대 소프트웨어 스튜디오)",
+                "period" : "2018년 3월 9일 ~ 2018년 6월 21일 (총 16주 80시간)",
+                "instructor" : "윤성관, 이재훈",
+                "appName" : "돌고래가계부",
+                "partner" : "고지훈, 김정연",
+                "appIntro" : "",
                 "appStore" : "",
                 "website" : "",
                 "sourceCode" : "",
-                "video" : "https://www.youtube.com/embed/ohaguY3t1PM",
+                "video" : "",
                 "commit1" : "",
                 "commit2" : "",
                 "commit3" : "",
                 "issueCreated" : "true",
                 "issueClosed" : "true",
-                "appIcon" : "true"
-
+                "appIcon" : ""
             }
         },
         {
-            "lang" : "en",
-            "content" : {
-              "report_no" : "18-KU-01-005",
-              "name" : "신승우",
-              "course" : "iOS App Design to Develop course",
-              "period" : "2017년 12월 20일 ~ 2018년 1월 26일 (6주 150시간)",
-              "instructor" : "박종욱, 박종영, 남장혁",
-              "appName" : "명언위젯",
-              "partner" : "윤진용, 임민진",
-              "appIntro" : "사용자 맞춤 명언앱입니다.<br>위젯으로 사용자가 원하는 명언을 보여줍니다.<br>상태설정을 통해 자신이 원하는 명언을 받을 수 있습니다.",
+          "lang" : "ko",
+          "content" : {
+              "report_no" : "18-HYU-01-001",
+              "name" : "",
+              "course" : "iOS App Develop Course (한양대 소프트웨어 스튜디오)",
+              "period" : "2018년 3월 9일 ~ 2018년 6월 21일 (총 16주 80시간)",
+              "instructor" : "윤성관, 이재훈",
+              "appName" : "",
+              "partner" : "",
+              "appIntro" : "",
               "appStore" : "",
               "website" : "",
               "sourceCode" : "",
-              "video" : "https://www.youtube.com/embed/ohaguY3t1PM",
+              "video" : "",
               "commit1" : "",
               "commit2" : "",
               "commit3" : "",
               "issueCreated" : "true",
               "issueClosed" : "true",
-              "appIcon" : "true"
+              "appIcon" : ""
             }
         }
     ]

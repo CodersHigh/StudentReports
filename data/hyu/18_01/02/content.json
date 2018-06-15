@@ -3,48 +3,47 @@
         {
             "lang" : "ko",
             "content" : {
-                "report_no" : "18-KU-01-002",
-                "name" : "김재영",
-                "course" : "iOS App Design to Develop course",
-                "period" : "2017년 12월 20일 ~ 2018년 1월 26일 (6주 150시간)",
-                "instructor" : "박종욱, 박종영, 남장혁",
-                "appName" : "KUnet",
-                "partner" : "서정민, 김미리암",
-                "appIntro" : "고려대학교 내 한국인과 외국인 학생들의 활발한 교류를 돕는 맞춤형 매칭앱",
+                "report_no" : "18-HYU-01-002",
+                "name" : "김병주",
+                "course" : "iOS App Develop Course (한양대 소프트웨어 스튜디오)",
+                "period" : "2018년 3월 9일 ~ 2018년 6월 21일 (총 16주 80시간)",
+                "instructor" : "윤성관, 이재훈",
+                "appName" : "위시리스트",
+                "partner" : "박근태, 이준호",
+                "appIntro" : "",
                 "appStore" : "",
-                "website" : "https://projectintheclass.github.io/KUnet/",
-                "sourceCode" : "https://githu앱b.com/ProjectInTheClass/KUnet",
-                "video" : "https://www.youtube.com/embed/fPGflvPKo0w",
+                "website" : "",
+                "sourceCode" : "",
+                "video" : "",
                 "commit1" : "",
                 "commit2" : "",
                 "commit3" : "",
-                "issueCreated" : "",
-                "issueClosed" : "",
-                "appIcon" : "true"
-
+                "issueCreated" : "true",
+                "issueClosed" : "true",
+                "appIcon" : ""
             }
         },
         {
-            "lang" : "en",
-            "content" : {
-              "report_no" : "18-KU-01-002",
-              "name" : "김재영",
-              "course" : "iOS App Design to Develop course",
-              "period" : "2017년 12월 19일~2018년 2월 12일(8주 135시간)",
-              "period" : "2017년 12월 20일 ~ 2018년 1월 26일 (6주 150시간)",
-              "instructor" : "박종욱, 박종영, 남장혁",
-              "partner" : "서정민, 김미리암",
-              "appIntro" : "고려대학교 내 한국인과 외국인 학생들의 활발한 교류를 돕는 맞춤형 매칭앱",
+          "lang" : "ko",
+          "content" : {
+              "report_no" : "18-HYU-01-001",
+              "name" : "",
+              "course" : "iOS App Develop Course (한양대 소프트웨어 스튜디오)",
+              "period" : "2018년 3월 9일 ~ 2018년 6월 21일 (총 16주 80시간)",
+              "instructor" : "윤성관, 이재훈",
+              "appName" : "",
+              "partner" : "",
+              "appIntro" : "",
               "appStore" : "",
-              "website" : "https://projectintheclass.github.io/KUnet/",
-              "sourceCode" : "https://githu앱b.com/ProjectInTheClass/KUnet",
-              "video" : "https://www.youtube.com/embed/fPGflvPKo0w",
+              "website" : "",
+              "sourceCode" : "",
+              "video" : "",
               "commit1" : "",
               "commit2" : "",
               "commit3" : "",
-              "issueCreated" : "",
-              "issueClosed" : "",
-              "appIcon" : "true"
+              "issueCreated" : "true",
+              "issueClosed" : "true",
+              "appIcon" : ""
             }
         }
     ]
