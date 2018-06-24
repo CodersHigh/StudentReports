@@ -150,7 +150,7 @@ function fillAppIcon() {
       </div>\
       <div class='row'>\
           <div class='width-40'>\
-              <img src='resource/appImage.png'>\
+              <img src='resource/appImage.png' class='appImage'>\
           </div>\
           <div class='width-60'>\
               <div class='spacing-xs'>\
@@ -176,7 +176,7 @@ var code2 = "<div class='container spacing-md'>\
     </div>\
     <div class='row'>\
         <div class='width-40'>\
-            <img src='resource/appImage.png'>\
+            <img src='resource/appImage.png' class='appImage'>\
         </div>\
         <div class='width-60'>\
             <div class='spacing-xs'>\
@@ -221,6 +221,7 @@ function fillCertificateForm2() {
   console.log(content);
 
   var video = content.video;
+  var contribute = content.contribute;
 
   var code = "<div class='container spacing-md'>\
 <div class='title spacing-sm'>\
@@ -240,8 +241,28 @@ function fillCertificateForm2() {
 </div>\
 ";
 
-  document.getElementById("certificateForm2").innerHTML = code;
+var code2 = "<div class='container spacing-md'>\
+<div class='title spacing-sm'>\
+<h3>발표 동영상</h3>\
+</div>\
+<div class='centered'>\
+<iframe width='560' height='315' src='" + video + "' frameborder='0' gesture='media' allow='encrypted-media' allowfullscreen></iframe>\
+</div>\
+</div>\
+<div class='container spacing-md'>\
+<div class='title spacing-sm'>\
+<h3>참여도</h3>\
+</div>\
+<div class='centered'>\
+</div>\
+</div>\
+";
 
+  if (contribute === ""){
+    document.getElementById("certificateForm2").innerHTML = code2;
+  } else {
+    document.getElementById("certificateForm2").innerHTML = code;
+  } 
 }
 
 
@@ -484,7 +505,7 @@ function fillAppIconEng() {
       </div>\
       <div class='row'>\
           <div class='width-40'>\
-              <img src='resource/appImage.png'>\
+              <img src='resource/appImage.png' class='appImage>\
           </div>\
           <div class='width-60'>\
               <div class='spacing-xs'>\

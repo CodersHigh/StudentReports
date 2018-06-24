@@ -10,16 +10,16 @@
                 "instructor" : "윤성관, 이재훈",
                 "appName" : "모멘트",
                 "partner" : "박예나, 신은정",
-                "appIntro" : "",
+                "appIntro" : "여러분은 오늘 하루 얼마나 많은 생각을 하셧나요? <br>그리고 그 중 얼마나 많은 생각을 스쳐보냈나요?<br><br>빠르게 변화하는 세상속에서 순간의 생각을 메모하세요.",
                 "appStore" : "",
-                "website" : "",
-                "sourceCode" : "",
+                "website" : "https://projectintheclass.github.io/Moment/",
+                "sourceCode" : "https://github.com/ProjectInTheClass/Moment",
                 "video" : "",
                 "commit1" : "",
                 "commit2" : "",
                 "commit3" : "",
-                "issueCreated" : "true",
-                "issueClosed" : "true",
+                "issueCreated" : "",
+                "issueClosed" : "",
                 "appIcon" : ""
             }
         },
@@ -41,8 +41,8 @@
               "commit1" : "",
               "commit2" : "",
               "commit3" : "",
-              "issueCreated" : "true",
-              "issueClosed" : "true",
+              "issueCreated" : "",
+              "issueClosed" : "",
               "appIcon" : ""
             }
         }

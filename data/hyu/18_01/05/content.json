@@ -19,7 +19,7 @@
                 "commit2" : "",
                 "commit3" : "",
                 "issueCreated" : "true",
-                "issueClosed" : "true",
+                "issueClosed" : "",
                 "appIcon" : ""
             }
         },

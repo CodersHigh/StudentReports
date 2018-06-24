@@ -10,16 +10,16 @@
                 "instructor" : "윤성관, 이재훈",
                 "appName" : "TriPlanner",
                 "partner" : "이종욱, 장휘수",
-                "appIntro" : "",
+                "appIntro" : "편리한 여행 플래너 앱",
                 "appStore" : "",
                 "website" : "",
-                "sourceCode" : "",
+                "sourceCode" : "https://github.com/ProjectInTheClass/TriPlanner_",
                 "video" : "",
                 "commit1" : "",
                 "commit2" : "",
                 "commit3" : "",
-                "issueCreated" : "true",
-                "issueClosed" : "true",
+                "issueCreated" : "",
+                "issueClosed" : "",
                 "appIcon" : ""
             }
         },
@@ -41,8 +41,8 @@
               "commit1" : "",
               "commit2" : "",
               "commit3" : "",
-              "issueCreated" : "true",
-              "issueClosed" : "true",
+              "issueCreated" : "",
+              "issueClosed" : "",
               "appIcon" : ""
             }
         }

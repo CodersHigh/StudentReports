@@ -8,17 +8,17 @@
                 "course" : "iOS App Develop Course (한양대 소프트웨어 스튜디오)",
                 "period" : "2018년 3월 9일 ~ 2018년 6월 21일 (총 16주 80시간)",
                 "instructor" : "윤성관, 이재훈",
-                "appName" : "그래프",
+                "appName" : "스마트한양",
                 "partner" : "백종원, 현경우",
-                "appIntro" : "",
+                "appIntro" : "한양대생들의 삶의 질 개선을 위한 시간표 프로젝트",
                 "appStore" : "",
-                "website" : "",
-                "sourceCode" : "",
+                "website" : "https://projectintheclass.github.io/SmartHanyang/",
+                "sourceCode" : "https://github.com/ProjectInTheClass/SmartHanyang",
                 "video" : "",
                 "commit1" : "",
                 "commit2" : "",
                 "commit3" : "",
-                "issueCreated" : "true",
+                "issueCreated" : "",
                 "issueClosed" : "true",
                 "appIcon" : ""
             }
@@ -41,7 +41,7 @@
               "commit1" : "",
               "commit2" : "",
               "commit3" : "",
-              "issueCreated" : "true",
+              "issueCreated" : "",
               "issueClosed" : "true",
               "appIcon" : ""
             }

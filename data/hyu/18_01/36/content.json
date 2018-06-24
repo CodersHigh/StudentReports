@@ -10,16 +10,16 @@
                 "instructor" : "윤성관, 이재훈",
                 "appName" : "TriPlanner",
                 "partner" : "이재영, 이종욱",
-                "appIntro" : "",
+                "appIntro" : "편리한 여행 플래너 앱",
                 "appStore" : "",
                 "website" : "",
-                "sourceCode" : "",
+                "sourceCode" : "https://github.com/ProjectInTheClass/TriPlanner_",
                 "video" : "",
                 "commit1" : "",
                 "commit2" : "",
                 "commit3" : "",
                 "issueCreated" : "true",
-                "issueClosed" : "true",
+                "issueClosed" : "",
                 "appIcon" : ""
             }
         },
@@ -33,17 +33,17 @@
               "instructor" : "윤성관, 이재훈",
               "appName" : "",
               "partner" : "",
-              "appIntro" : "",
-              "appStore" : "",
-              "website" : "",
-              "sourceCode" : "",
-              "video" : "",
-              "commit1" : "",
-              "commit2" : "",
-              "commit3" : "",
-              "issueCreated" : "true",
-              "issueClosed" : "true",
-              "appIcon" : ""
+              "appIntro" : "편리한 여행 플래너 앱",
+                "appStore" : "",
+                "website" : "",
+                "sourceCode" : "https://github.com/ProjectInTheClass/TriPlanner_",
+                "video" : "",
+                "commit1" : "",
+                "commit2" : "",
+                "commit3" : "",
+                "issueCreated" : "true",
+                "issueClosed" : "",
+                "appIcon" : ""
             }
         }
     ]

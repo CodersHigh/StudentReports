@@ -10,16 +10,16 @@
                 "instructor" : "윤성관, 이재훈",
                 "appName" : "이모지",
                 "partner" : "이기택, 이정민",
-                "appIntro" : "",
+                "appIntro" : "기분대로 적어보는 감성 일기 어플리케이션!<br>그 날의 행복과 기쁨, 또 어느 날의 슬픔을 기록해 손 안에 간직해보세요.",
                 "appStore" : "",
-                "website" : "",
-                "sourceCode" : "",
+                "website" : "https://projectintheclass.github.io/Emogi/",
+                "sourceCode" : "https://github.com/ProjectInTheClass/Emogi",
                 "video" : "",
                 "commit1" : "",
                 "commit2" : "",
                 "commit3" : "",
-                "issueCreated" : "true",
-                "issueClosed" : "true",
+                "issueCreated" : "",
+                "issueClosed" : "",
                 "appIcon" : ""
             }
         },
@@ -41,8 +41,8 @@
               "commit1" : "",
               "commit2" : "",
               "commit3" : "",
-              "issueCreated" : "true",
-              "issueClosed" : "true",
+              "issueCreated" : "",
+              "issueClosed" : "",
               "appIcon" : ""
             }
         }
