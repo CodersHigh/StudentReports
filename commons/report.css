@@ -309,3 +309,36 @@ footer .edulogo {
     margin-left: 86px;
 }
 
+.gotogithub {
+    display: inline-block;
+    border: 1px solid black;
+    border-radius: 6px;
+    padding: 0 10px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    height: 30px;
+    line-height: 38px;
+    position: relative;
+    top: -3px;
+}
+
+.commit-container {
+    width: 100%;
+    padding: 0 60px;
+
+}
+
+.commit-title {
+    display: unset;
+    font-size: 18px;
+    margin-left: 20px;
+    font-weight: bold;
+}
+
+.commit-content {
+    font-size: 14px;
+    margin: 10px 95px 30px 95px ;
+}
+a:hover {
+    text-decoration: none !important;
+}

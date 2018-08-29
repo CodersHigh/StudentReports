@@ -18,9 +18,21 @@
                 "website" : "",
                 "sourceCode" : "",
                 "video" : "",
-                "commit1" : "",
-                "commit2" : "",
-                "commit3" : "",
+                "commit1" : {
+                    "title" : "커뮤니티 글, 댓글",
+                    "content" : "커뮤니티에 저장된 글과 댓글을 보여준다.",
+                    "link" : "none"
+                },
+                "commit2" : {
+                    "title" : "로그인요청 alert",
+                    "content" : "로그아웃상태에서 로그인이 필요한 서비스를 클릭하면 로그인요청 alert과 로그인 스토리보드 출력",
+                    "link" : "https://github.com/ProjectInTheClass/EnglishBook/commit/6c2a359f5b0428441487a7aa3bf78353b7d04825"
+                },
+                "commit3" : {
+                    "title" : "마이페이지 동적생성",
+                    "content" : "사용자 활동내역을 볼 수 있는 마이페이지에서 섹션별로 테이블셀을 만들어줌.",
+                    "link" : ""
+                },
                 "issueCreated" : "true",
                 "issueClosed" : "true"
 

@@ -18,9 +18,21 @@
                 "website" : "",
                 "sourceCode" : "",
                 "video" : "",
-                "commit1" : "",
-                "commit2" : "",
-                "commit3" : "",
+                "commit1" : {
+                    "title" : "Singleton 패턴 이용하여 CommnetModel 수정 ",
+                    "content" : "싱글톤이라는 디자인 패턴을 해당 프로젝트에 처음 적용한 커밋이다. 이전에는 화면을 생성할 때 마다 객체를 새롭게 불러왔기 때문에  댓글을 등록해도 모델에 append되지 않는 문제가 발생하였으나,  해당 커밋 이후에는 Comment model을 유일무이한 객체로 관리할 수 있게 되어 댓글의 등록이 가능하게 되었다.",
+                    "link" : "https://github.com/ProjectInTheClass/moongaemoongae/commit/b4a89190f5e946d20d0ac8fba25c182dec3028ab"
+                },
+                "commit2" : {
+                    "title" : "아이디어 탭에서 배경 클릭 시 구름 숨김/해당하는 태그에 대한 구름만 보이도록",
+                    "content" : "싱글톤이라는 디자인 패턴을 해당 프로젝트에 처음 적용한 커밋이다. 이전에는 화면을 생성할 때 마다 객체를 새롭게 불러왔기 때문에  댓글을 등록해도 모델에 append되지 않는 문제가 발생하였으나,  해당 커밋 이후에는 Comment model을 유일무이한 객체로 관리할 수 있게 되어 댓글의 등록이 가능하게 되었다.",
+                    "link" : "https://github.com/ProjectInTheClass/moongaemoongae/commit/09c6202cfe1d76a1013c8dd65ce64779f7b6a442"
+                },
+                "commit3" : {
+                    "title" : "프로젝트 모델에서 태그 불러와 아이디어 탭에 출력",
+                    "content" : "이전에는 태그에 대한 더미 데이터를 코드에 직접 삽입하고, 그를 불러오는 방식이었다면 다만, 아이디어 탭에서 직접 불러오는 방식이 마음에 들지 않아 후에 project model안에 함수를 삽입하여 불러오도록 했다.",
+                    "link" : "https://github.com/ProjectInTheClass/moongaemoongae/commit/d6d2c087b471897b698dd20836f795e401d8c641"
+                },
                 "issueCreated" : "true",
                 "issueClosed" : "true"
 

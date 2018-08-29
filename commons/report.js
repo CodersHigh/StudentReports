@@ -13,9 +13,8 @@ function setKor() {
             fillHeaderKor();
             fillAppIcon();
             fillCertificateForm2();
-            fillCertificateForm3();
             fillArticleCommit();
-
+            fillCertificateForm3();
         }
         else {
             // parse error
@@ -41,9 +40,8 @@ function setEng() {
             fillHeaderEng();
             fillAppIconEng();
             fillCertificateForm2Eng();
-            fillCertificateForm3Eng();
             fillArticleCommitEng();
-
+            fillCertificateForm3Eng();
 
         }
         else {
@@ -354,13 +352,13 @@ function fillCertificateForm3() {
   ";
 
   if (issueCreated === "" && issueClosed === ""){
-    document.getElementById("certificateForm3").innerHTML = code4;
+    document.getElementById("commit").innerHTML = code4;
   } else if (issueCreated === "" && issueClosed === "true") {
-    document.getElementById("certificateForm3").innerHTML = code3;
+    document.getElementById("commit").innerHTML = code3;
   } else if (issueCreated === "true" && issueClosed === "") {
-    document.getElementById("certificateForm3").innerHTML = code2;
+    document.getElementById("commit").innerHTML = code2;
   } else if (issueCreated === "true" && issueClosed === "true"){
-    document.getElementById("certificateForm3").innerHTML = code;
+    document.getElementById("commit").innerHTML = code;
   }
 }
 
@@ -374,35 +372,46 @@ function fillArticleCommit() {
           content = content_temp.content;
       }
   }
-
-  console.log(content);
-
   var commit1 = content.commit1;
   var commit2 = content.commit2;
   var commit3 = content.commit3;
+  console.log(commit1)
+  console.log(commit2)
 
-  var code = "<div class='container spacing-md'>\
-      <div class='title'>\
-          <h3>Noteworthy Commits</h3>\
-      </div>\
-      <div class='content'>\
-          1. " + commit1 + "\
-      </div>\
-      <div class='content'>\
-          2. " + commit2 + "\
-      </div>\
-      <div class='content'>\
-          3. " + commit3 + "\
-      </div>\
-  </div>\
-  ";
+    if(commit1.title != "" && commit1.content != "" & commit1.link != "") {
+        var code = "<div class='container spacing-md'>\
+            <div class='title'>\
+                <h3>Noteworthy Commits</h3>\
+            </div>\
+            <div class='commit-container'>\
+                <a href='" + commit1.link + "'>\
+                    <img src='../../../../commons/github.png' class='gotogithub' />\
+                </a>\
+                <div class='commit-title'>1. " + commit1.title + "</div>\
+                <div class='commit-content'>" + commit1.content + "</div>\
+            </div>\
+            <div class='commit-container'>\
+                <a href='" + commit2.link + "'>\
+                    <img src='../../../../commons/github.png' class='gotogithub' />\
+                </a>\
+                <div class='commit-title'>2. " + commit2.title + "</div>\
+                <div class='commit-content'>" + commit2.content + "</div>\
+            </div>\
+            <div class='commit-container'>\
+                <a href='" + commit3.link + "'>\
+                    <img src='../../../../commons/github.png' class='gotogithub' />\
+                </a>\
+                <div class='commit-title'>3. " + commit3.title + "</div>\
+                <div class='commit-content'>" + commit3.content + "</div>\
+            </div>\
+        </div>\
+        ";
+    }   
 
-  document.getElementById("commit").innerHTML = code;
+  document.getElementById("certificateForm3").innerHTML = code;
   if (commit1 === ""){
-    document.getElementById("commit").style.display = "none";
+    document.getElementById("certificateForm3").style.display = "none";
   }
-
-
 }
 
 
@@ -714,21 +723,35 @@ function fillArticleCommitEng() {
   var commit2 = content.commit2;
   var commit3 = content.commit3;
 
-  var code = "<div class='container spacing-md'>\
-      <div class='title'>\
-          <h3>Noteworthy Commits</h3>\
-      </div>\
-      <div class='content'>\
-          1. " + commit1 + "\
-      </div>\
-      <div class='content'>\
-          2. " + commit2 + "\
-      </div>\
-      <div class='content'>\
-          3. " + commit3 + "\
-      </div>\
-  </div>\
-  ";
+  if(commit1.title != "" && commit1.content != "" & commit1.link != "") {
+    var code = "<div class='container spacing-md'>\
+        <div class='title'>\
+            <h3>Noteworthy Commits</h3>\
+        </div>\
+        <div class='commit-container'>\
+            <a href='" + commit1.link + "'>\
+                <img src='../../../../commons/github.png' class='gotogithub' />\
+            </a>\
+            <div class='commit-title'>1. " + commit1.title + "</div>\
+            <div class='commit-content'>" + commit1.content + "</div>\
+        </div>\
+        <div class='commit-container'>\
+            <a href='" + commit2.link + "'>\
+                <img src='../../../../commons/github.png' class='gotogithub' />\
+            </a>\
+            <div class='commit-title'>2. " + commit2.title + "</div>\
+            <div class='commit-content'>" + commit2.content + "</div>\
+        </div>\
+        <div class='commit-container'>\
+            <a href='" + commit3.link + "'>\
+                <img src='../../../../commons/github.png' class='gotogithub' />\
+            </a>\
+            <div class='commit-title'>3. " + commit3.title + "</div>\
+            <div class='commit-content'>" + commit3.content + "</div>\
+        </div>\
+    </div>\
+    ";
+}   
 
   document.getElementById("commit").innerHTML = code;
   if (commit1 === ""){
