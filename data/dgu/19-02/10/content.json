@@ -1,0 +1,55 @@
+{
+    "contents" : [
+        {
+            "lang" : "ko",
+            "content" : {
+                "report_no" : "18-DGU-01-010",
+                "name" : "신유리",
+                "course" : "iOS App Design to Develop Course",
+                "period" : "2017년 12월 27일 ~ 2018년 2월 13일(7주 91시간)",
+                "instructor" : "김영후, 남장혁",
+                "appName" : "PillingTime",
+                "partner" : "김승주, 이해준",
+                "appIntro" : "약을 복용하는 사람들을 위한<br>시간을 등록하면 해당시간에 약을 복용할 수 있도록 알려주는 알람 앱",
+                "testPeriod" : "",
+                "testScore" : "",
+                "appStore" : "",
+                "website" : "https://projectintheclass.github.io/PillingTime/",
+                "sourceCode" : "https://github.com/ProjectInTheClass/PillingTime",
+                "video" : "https://www.youtube.com/embed/9hZ865UkV10",
+                "commit1" : "",
+                "commit2" : "",
+                "commit3" : "",
+                "issueCreated" : "true",
+                "issueClosed" : "true",
+                "appIcon" : ""
+
+            }
+        },
+        {
+            "lang" : "en",
+            "content" : {
+              "report_no" : "18-DGU-01-010",
+              "name" : "신유리",
+              "course" : "iOS App Design to Develop Course",
+              "period" : "2017년 12월 27일 ~ 2018년 2월 13일(7주 91시간)",
+              "instructor" : "김영후, 남장혁",
+              "appName" : "PillingTime",
+              "partner" : "김승주, 이해준",
+              "appIntro" : "약을 복용하는 사람들을 위한<br>시간을 등록하면 해당시간에 약을 복용할 수 있도록 알려주는 알람 앱",
+              "testPeriod" : "",
+              "testScore" : "",
+              "appStore" : "",
+              "website" : "https://projectintheclass.github.io/PillingTime/",
+              "sourceCode" : "https://github.com/ProjectInTheClass/PillingTime",
+              "video" : "https://www.youtube.com/embed/9hZ865UkV10",
+              "commit1" : "",
+              "commit2" : "",
+              "commit3" : "",
+              "issueCreated" : "true",
+              "issueClosed" : "true",
+              "appIcon" : ""
+            }
+        }
+    ]
+}

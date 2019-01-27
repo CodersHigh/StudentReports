@@ -1,0 +1,54 @@
+{
+    "contents" : [
+        {
+            "lang" : "ko",
+            "content" : {
+                "report_no" : "18-DGU-01-006",
+                "name" : "김지수",
+                "course" : "iOS App Design to Develop Course",
+                "period" : "2017년 12월 27일 ~ 2018년 2월 13일(7주 91시간)",
+                "instructor" : "김영후, 남장혁",
+                "appName" : "도리니티",
+                "partner" : "김민수, 김성탁",
+                "appIntro" : "3D모델 교육을 위한 앱",
+                "testPeriod" : "",
+                "testScore" : "",
+                "appStore" : "",
+                "website" : "https://projectintheclass.github.io/dorinity/",
+                "sourceCode" : "https://github.com/ProjectInTheClass/dorinity",
+                "video" : "https://www.youtube.com/embed/1bBU9ReBk3E",
+                "commit1" : "",
+                "commit2" : "",
+                "commit3" : "",
+                "issueCreated" : "true",
+                "issueClosed" : "true",
+                "appIcon" : ""
+
+            }
+        },
+        {
+            "lang" : "en",
+            "content" : {
+              "name" : "김지수",
+              "course" : "iOS App Design to Develop Course",
+              "period" : "2017년 12월 27일 ~ 2018년 2월 13일(7주 91시간)",
+              "instructor" : "김영후, 남장혁",
+              "appName" : "도리니티",
+              "partner" : "김민수, 김성탁",
+              "appIntro" : "3D모델 교육을 위한 앱",
+              "testPeriod" : "",
+              "testScore" : "",
+              "appStore" : "",
+              "website" : "https://projectintheclass.github.io/dorinity/",
+              "sourceCode" : "https://github.com/ProjectInTheClass/dorinity",
+              "video" : "https://www.youtube.com/embed/1bBU9ReBk3E",
+              "commit1" : "",
+              "commit2" : "",
+              "commit3" : "",
+              "issueCreated" : "true",
+              "issueClosed" : "true",
+              "appIcon" : ""
+            }
+        }
+    ]
+}

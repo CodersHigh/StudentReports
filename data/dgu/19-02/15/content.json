@@ -1,0 +1,55 @@
+{
+    "contents" : [
+        {
+            "lang" : "ko",
+            "content" : {
+                "report_no" : "18-DGU-01-015",
+                "name" : "최한나",
+                "course" : "iOS App Design to Develop Course",
+                "period" : "2017년 12월 27일 ~ 2018년 2월 13일(7주 91시간)",
+                "instructor" : "김영후, 남장혁",
+                "appName" : "스포팅",
+                "partner" : "조중현, 한승연",
+                "appIntro" : "편리한 운동 소모임 관리, SPORTING<br>축구, 야구, 수영 등 원하는 종목에 참여해 보세요<br>Sporting은 원하는 시간 원하는 종목의 운동 모임을 관리합니다",
+                "testPeriod" : "",
+                "testScore" : "",
+                "appStore" : "",
+                "website" : "https://projectintheclass.github.io/Sporting/",
+                "sourceCode" : "https://github.com/ProjectInTheClass/Sporting",
+                "video" : "https://www.youtube.com/embed/81qy6hpiwQY",
+                "commit1" : "",
+                "commit2" : "",
+                "commit3" : "",
+                "issueCreated" : "true",
+                "issueClosed" : "true",
+                "appIcon" : ""
+
+            }
+        },
+        {
+            "lang" : "en",
+            "content" : {
+              "report_no" : "18-DGU-01-015",
+              "name" : "최한나",
+              "course" : "iOS App Design to Develop Course",
+              "period" : "2017년 12월 27일 ~ 2018년 2월 13일(7주 91시간)",
+              "instructor" : "김영후, 남장혁",
+              "appName" : "스포팅",
+              "partner" : "조중현, 한승연",
+              "appIntro" : "편리한 운동 소모임 관리, SPORTING<br>축구, 야구, 수영 등 원하는 종목에 참여해 보세요<br>Sporting은 원하는 시간 원하는 종목의 운동 모임을 관리합니다",
+              "testPeriod" : "",
+              "testScore" : "",
+              "appStore" : "",
+              "website" : "https://projectintheclass.github.io/Sporting/",
+              "sourceCode" : "https://github.com/ProjectInTheClass/Sporting",
+              "video" : "https://www.youtube.com/embed/81qy6hpiwQY",
+              "commit1" : "",
+              "commit2" : "",
+              "commit3" : "",
+              "issueCreated" : "true",
+              "issueClosed" : "true",
+              "appIcon" : ""
+            }
+        }
+    ]
+}
