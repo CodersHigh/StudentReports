@@ -11,18 +11,18 @@
                 "appIcon" : "",
                 "appName" : "버블 메모",
                 "partner" : "고안나, 이혜미",
-                "appIntro" : "",
+                "appIntro" : "\"메모에서부터 오는 감각적인 경험.\" 비눗방울처럼 생겨나는 아이디어를 놓치지 마세요.",
                 "testPeriod" : "",
                 "testScore" : "",
-                "appStore" : "\"메모에서부터 오는 감각적인 경험\"\n비눗방울처럼 생겨나는 아이디어를 놓치지 마세요.",
+                "appStore" : "",
                 "website" : "https://projectintheclass.github.io/BubbleMemo/",
                 "sourceCode" : "https://github.com/ProjectInTheClass/BubbleMemo",
-                "video" : "",
+                "video" : "https://www.youtube.com/embed/POG0OzV0tqE",
                 "commit1" : "",
                 "commit2" : "",
                 "commit3" : "",
-                "issueCreated" : "true",
-                "issueClosed" : "true"
+                "issueCreated" : "false",
+                "issueClosed" : "false"
 
             }
         },{
@@ -36,18 +36,18 @@
                 "appIcon" : "",
                 "appName" : "Bubble Memo",
                 "partner" : "고안나, 이혜미",
-                "appIntro" : "",
+                "appIntro" : "\"메모에서부터 오는 감각적인 경험.\" 비눗방울처럼 생겨나는 아이디어를 놓치지 마세요.",
                 "testPeriod" : "",
                 "testScore" : "",
-                "appStore" : "\"메모에서부터 오는 감각적인 경험\"\n비눗방울처럼 생겨나는 아이디어를 놓치지 마세요.",
+                "appStore" : "",
                 "website" : "https://projectintheclass.github.io/BubbleMemo/",
                 "sourceCode" : "https://github.com/ProjectInTheClass/BubbleMemo",
-                "video" : "",
+                "video" : "https://www.youtube.com/embed/POG0OzV0tqE",
                 "commit1" : "",
                 "commit2" : "",
                 "commit3" : "",
-                "issueCreated" : "true",
-                "issueClosed" : "true"
+                "issueCreated" : "false",
+                "issueClosed" : "false"
 
             }
         }

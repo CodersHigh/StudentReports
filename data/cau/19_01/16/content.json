@@ -17,12 +17,12 @@
                 "appStore" : "",
                 "website" : "https://projectintheclass.github.io/convenient_calendar/",
                 "sourceCode" : "https://github.com/ProjectInTheClass/convenient_calendar.git",
-                "video" : "",
+                "video" : "https://www.youtube.com/embed/PActdaWm9Ec",
                 "commit1" : "",
                 "commit2" : "",
                 "commit3" : "",
-                "issueCreated" : "true",
-                "issueClosed" : "true"
+                "issueCreated" : "false",
+                "issueClosed" : "false"
 
             }
         },{
@@ -42,12 +42,12 @@
                 "appStore" : "",
                 "website" : "https://projectintheclass.github.io/convenient_calendar/",
                 "sourceCode" : "https://github.com/ProjectInTheClass/convenient_calendar.git",
-                "video" : "",
+                "video" : "https://www.youtube.com/embed/PActdaWm9Ec",
                 "commit1" : "",
                 "commit2" : "",
                 "commit3" : "",
-                "issueCreated" : "true",
-                "issueClosed" : "true"
+                "issueCreated" : "false",
+                "issueClosed" : "false"
 
             }
         }

@@ -17,12 +17,12 @@
                 "appStore" : "",
                 "website" : "https://projectintheclass.github.io/EYEhealth/",
                 "sourceCode" : "https://github.com/ProjectInTheClass/EYEhealth",
-                "video" : "",
+                "video" : "https://www.youtube.com/embed/YBojEyf_GXo",
                 "commit1" : "",
                 "commit2" : "",
                 "commit3" : "",
-                "issueCreated" : "true",
-                "issueClosed" : "true"
+                "issueCreated" : "false",
+                "issueClosed" : "false"
 
             }
         },{
@@ -42,12 +42,12 @@
                 "appStore" : "",
                 "website" : "https://projectintheclass.github.io/EYEhealth/",
                 "sourceCode" : "https://github.com/ProjectInTheClass/EYEhealth",
-                "video" : "",
+                "video" : "https://www.youtube.com/embed/YBojEyf_GXo",
                 "commit1" : "",
                 "commit2" : "",
                 "commit3" : "",
-                "issueCreated" : "true",
-                "issueClosed" : "true"
+                "issueCreated" : "false",
+                "issueClosed" : "false"
 
             }
         }

@@ -17,12 +17,12 @@
                 "appStore" : "https://itunes.apple.com/kr/app/sketchword/id1453309917?mt=8",
                 "website" : "https://projectintheclass.github.io/iOS_Heads_Up/",
                 "sourceCode" : "https://github.com/ProjectInTheClass/iOS_Heads_Up",
-                "video" : "",
+                "video" : "https://www.youtube.com/embed/Zoi-rPAUneE",
                 "commit1" : "",
                 "commit2" : "",
                 "commit3" : "",
-                "issueCreated" : "true",
-                "issueClosed" : "true"
+                "issueCreated" : "false",
+                "issueClosed" : "false"
 
             }
         },{
@@ -42,12 +42,12 @@
                 "appStore" : "https://itunes.apple.com/kr/app/sketchword/id1453309917?mt=8",
                 "website" : "https://projectintheclass.github.io/iOS_Heads_Up/",
                 "sourceCode" : "https://github.com/ProjectInTheClass/iOS_Heads_Up",
-                "video" : "",
+                "video" : "https://www.youtube.com/embed/Zoi-rPAUneE",
                 "commit1" : "",
                 "commit2" : "",
                 "commit3" : "",
-                "issueCreated" : "true",
-                "issueClosed" : "true"
+                "issueCreated" : "false",
+                "issueClosed" : "false"
 
             }
         }

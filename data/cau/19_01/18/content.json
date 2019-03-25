@@ -17,12 +17,12 @@
                 "appStore" : "",
                 "website" : "https://projectintheclass.github.io/jeonguk_ATM/",
                 "sourceCode" : "https://github.com/ProjectInTheClass/jeonguk_ATM",
-                "video" : "",
+                "video" : "https://www.youtube.com/embed/b5WA3GQofJw",
                 "commit1" : "",
                 "commit2" : "",
                 "commit3" : "",
-                "issueCreated" : "true",
-                "issueClosed" : "true"
+                "issueCreated" : "false",
+                "issueClosed" : "false"
 
             }
         },{
@@ -42,12 +42,12 @@
                 "appStore" : "",
                 "website" : "https://projectintheclass.github.io/jeonguk_ATM/",
                 "sourceCode" : "https://github.com/ProjectInTheClass/jeonguk_ATM",
-                "video" : "",
+                "video" : "https://www.youtube.com/embed/b5WA3GQofJw",
                 "commit1" : "",
                 "commit2" : "",
                 "commit3" : "",
-                "issueCreated" : "true",
-                "issueClosed" : "true"
+                "issueCreated" : "false",
+                "issueClosed" : "false"
 
             }
         }

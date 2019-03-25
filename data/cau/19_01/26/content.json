@@ -17,12 +17,12 @@
                 "appStore" : "",
                 "website" : "https://projectintheclass.github.io/notepic/",
                 "sourceCode" : "https://github.com/ProjectInTheClass/notepic",
-                "video" : "",
+                "video" : "https://www.youtube.com/embed/DIDRgopUvik",
                 "commit1" : "",
                 "commit2" : "",
                 "commit3" : "",
-                "issueCreated" : "true",
-                "issueClosed" : "true"
+                "issueCreated" : "false",
+                "issueClosed" : "false"
 
             }
         },{
@@ -42,12 +42,12 @@
                 "appStore" : "",
                 "website" : "https://projectintheclass.github.io/notepic/",
                 "sourceCode" : "https://github.com/ProjectInTheClass/notepic",
-                "video" : "",
+                "video" : "https://www.youtube.com/embed/DIDRgopUvik",
                 "commit1" : "",
                 "commit2" : "",
                 "commit3" : "",
-                "issueCreated" : "true",
-                "issueClosed" : "true"
+                "issueCreated" : "false",
+                "issueClosed" : "false"
 
             }
         }

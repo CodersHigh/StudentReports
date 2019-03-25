@@ -17,12 +17,12 @@
                 "appStore" : "",
                 "website" : "https://projectintheclass.github.io/life-deposit/",
                 "sourceCode" : "https://github.com/ProjectInTheClass/life-deposit",
-                "video" : "",
+                "video" : "https://www.youtube.com/embed/F4EkTb5-EXs",
                 "commit1" : "",
                 "commit2" : "",
                 "commit3" : "",
-                "issueCreated" : "true",
-                "issueClosed" : "true"
+                "issueCreated" : "false",
+                "issueClosed" : "false"
 
             }
         },{
@@ -42,12 +42,12 @@
                 "appStore" : "",
                 "website" : "https://projectintheclass.github.io/life-deposit/",
                 "sourceCode" : "https://github.com/ProjectInTheClass/life-deposit",
-                "video" : "",
+                "video" : "https://www.youtube.com/embed/F4EkTb5-EXs",
                 "commit1" : "",
                 "commit2" : "",
                 "commit3" : "",
-                "issueCreated" : "true",
-                "issueClosed" : "true"
+                "issueCreated" : "false",
+                "issueClosed" : "false"
 
             }
         }
