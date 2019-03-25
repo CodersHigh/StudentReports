@@ -33,8 +33,8 @@
                     "content" : "처음에는 사진 저장을 단순히 사용자 기기의 앨범에 저장하도록 했는데, 이 과정에서 사용자가 사진에 마음대로 접근이 가능하다는 점을 뒤늦게 깨닫고 수정하여 앱내에 사진을 저장하도록 바꾸었습니다. 단순히 앨범에 저장하면 된다고 안일하게 생각했다가 깊은 깨달음을 얻어서 기억에 남습니다.",
                     "link" : "https://github.com/ProjectInTheClass/life-deposit/commit/adee535e658da10eca2bd4d5f9fda0dd7b936db3"
                   },
-                "issueCreated" : "true",
-                "issueClosed" : "true"
+                "issueCreated" : "false",
+                "issueClosed" : "false"
 
             }
         },{
@@ -70,8 +70,8 @@
                     "content" : "처음에는 사진 저장을 단순히 사용자 기기의 앨범에 저장하도록 했는데, 이 과정에서 사용자가 사진에 마음대로 접근이 가능하다는 점을 뒤늦게 깨닫고 수정하여 앱내에 사진을 저장하도록 바꾸었습니다. 단순히 앨범에 저장하면 된다고 안일하게 생각했다가 깊은 깨달음을 얻어서 기억에 남습니다.",
                     "link" : "https://github.com/ProjectInTheClass/life-deposit/commit/adee535e658da10eca2bd4d5f9fda0dd7b936db3"
                   },
-                "issueCreated" : "true",
-                "issueClosed" : "true"
+                "issueCreated" : "false",
+                "issueClosed" : "false"
 
             }
         }
