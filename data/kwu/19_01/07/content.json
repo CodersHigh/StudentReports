@@ -1,0 +1,50 @@
+{
+    "contents" : [
+        {
+            "lang" : "ko",
+            "content" : {
+                "report_no" : "19-KWU-01-007",
+                "name" : "신준형",
+                "course" : "iOS App Design to Develop Course",
+                "period" : "2019년 6월 24일 ~ 2019년 8월 9일 (91시간)",
+                "instructor" : "박종영, 윤성관, 김태선",
+                "appName" : "한강Flex",
+                "partner" : "최현목",
+                "appIntro" : "한강 공원에 대해 새롭게 알아보세요! 심플한 기능, 필요한 것만 담았다.",
+                "appStore" : "",
+                "website" : "https://projectintheclass.github.io/HanRiverFlex/",
+                "sourceCode" : "https://github.com/ProjectInTheClass/HanRiverFlex",
+                "video" : "https://www.youtube.com/watch?v=R-lnhy6mFRo",
+                "commit1" : "",
+                "commit2" : "",
+                "commit3" : "",
+                "issueCreated" : "true",
+                "issueClosed" : "true",
+                "appIcon" : ""
+            }
+        },
+        {
+          "lang" : "en",
+          "content" : {
+              "report_no" : "19-KWU-01-007",
+              "name" : "Joonhyung Shin",
+              "course" : "iOS App Design to Develop Course",
+              "period" : "2019. 6. 24. ~ 2019. 8. 9. (91hours)",
+              "instructor" : "Jongyoung Park, Yoonseong Kwan, Taeseon Kim",
+              "appName" : "Hanriver Flex",
+              "partner" : "Hyunmok Choi",
+              "appIntro" : "Learn more about the Han River Park! Simple features, only what you need",
+              "appStore" : "",
+              "website" : "https://projectintheclass.github.io/HanRiverFlex/",
+              "sourceCode" : "https://github.com/ProjectInTheClass/HanRiverFlex",
+              "video" : "https://www.youtube.com/watch?v=R-lnhy6mFRo",
+              "commit1" : "",
+              "commit2" : "",
+              "commit3" : "",
+              "issueCreated" : "true",
+              "issueClosed" : "true",
+              "appIcon" : ""
+            }
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "contents" : [
+        {
+            "lang" : "ko",
+            "content" : {
+                "report_no" : "19-KWU-01-011",
+                "name" : "이주혁",
+                "course" : "iOS App Design to Develop Course",
+                "period" : "2019년 6월 24일 ~ 2019년 8월 9일 (91시간)",
+                "instructor" : "박종영, 윤성관, 김태선",
+                "appName" : "학생check",
+                "partner" : "강지현, 이주혁, 정연희",
+                "appIntro" : "학생들 출결 상황 체크하는 앱.",
+                "appStore" : "",
+                "website" : "https://projectintheclass.github.io/CheckStudent/",
+                "sourceCode" : "https://github.com/ProjectInTheClass/CheckStudent",
+                "video" : "https://www.youtube.com/watch?v=j3BJwkXkkVo&feature=youtu.be",
+                "commit1" : "",
+                "commit2" : "",
+                "commit3" : "",
+                "issueCreated" : "true",
+                "issueClosed" : "true",
+                "appIcon" : ""
+            }
+        },
+        {
+          "lang" : "en",
+          "content" : {
+              "report_no" : "19-KWU-01-011",
+              "name" : "Joohyuk Lee",
+              "course" : "iOS App Design to Develop Course",
+              "period" : "2019. 6. 24. ~ 2019. 8. 9. (91hours)",
+              "instructor" : "Jongyoung Park, Yoonseong Kwan, Taeseon Kim",
+              "appName" : "CheckStudent",
+              "partner" : "Jihyen Kang, Joohyuk Lee, Yeonhee Joeng",
+              "appIntro" : "Students Attendance Check App",
+              "appStore" : "",
+              "website" : "https://projectintheclass.github.io/CheckStudent/",
+              "sourceCode" : "https://github.com/ProjectInTheClass/CheckStudent",
+              "video" : "https://www.youtube.com/watch?v=j3BJwkXkkVo&feature=youtu.be",
+              "commit1" : "",
+              "commit2" : "",
+              "commit3" : "",
+              "issueCreated" : "true",
+              "issueClosed" : "true",
+              "appIcon" : ""
+            }
+        }
+    ]
+}

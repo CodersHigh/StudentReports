@@ -1,0 +1,50 @@
+{
+    "contents" : [
+        {
+            "lang" : "ko",
+            "content" : {
+                "report_no" : "19-KWU-01-012",
+                "name" : "강경훈",
+                "course" : "iOS App Design to Develop Course",
+                "period" : "2019년 6월 24일 ~ 2019년 8월 9일 (91시간)",
+                "instructor" : "박종영, 윤성관, 김태선",
+                "appName" : "HiMoveIt",
+                "partner" : "정재완, 오성수",
+                "appIntro" : "사진 전문가가 아니더라도 손쉽게 시네마 그래프 콘텐츠를 만들 수 있는 애플리케이션.",
+                "appStore" : "",
+                "website" : "https://projectintheclass.github.io/HiMoveIt/",
+                "sourceCode" : "https://github.com/ProjectInTheClass/HiMoveIt",
+                "video" : "https://www.youtube.com/watch?v=xZ8Cp7iZ8i8",
+                "commit1" : "",
+                "commit2" : "",
+                "commit3" : "",
+                "issueCreated" : "true",
+                "issueClosed" : "true",
+                "appIcon" : ""
+            }
+        },
+        {
+          "lang" : "en",
+          "content" : {
+              "report_no" : "19-KWU-01-012",
+              "name" : "Kyung Hoon Kang",
+              "course" : "iOS App Design to Develop Course",
+              "period" : "2019. 6. 24. ~ 2019. 8. 9. (91hours)",
+              "instructor" : "Jongyoung Park, Yoonseong Kwan, Taeseon Kim",
+              "appName" : "HiMoveIt",
+              "partner" : "Jewan Jeong, Seongsoo Oh",
+              "appIntro" : "An application that makes it easy to create cinema graph content even if you are not a photography expert",
+              "appStore" : "",
+              "website" : "https://projectintheclass.github.io/HiMoveIt/",
+              "sourceCode" : "https://github.com/ProjectInTheClass/HiMoveIts",
+              "video" : "https://www.youtube.com/watch?v=xZ8Cp7iZ8i8",
+              "commit1" : "",
+              "commit2" : "",
+              "commit3" : "",
+              "issueCreated" : "true",
+              "issueClosed" : "true",
+              "appIcon" : ""
+            }
+        }
+    ]
+}
