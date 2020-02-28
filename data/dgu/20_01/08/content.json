@@ -1,56 +1,54 @@
 {
-    "contents" : [
-        {
-            "lang" : "ko",
-            "content" : {
-                "report_no" : "19-CAU-01-009",
-                "name" : "손재형",
-                "course" : "iOS App Design to Develop Course",
-                "period" : "교육기간: 2018년 12월 26일 ~ 2019년 2월 15일 ( 8주 135시간 )",
-                "instructor" : "고준일, 윤성관, 김태선, 남장혁",
-                "appIcon" : "",
-                "appName" : "팀플시간",
-                "partner" : "",
-                "appIntro" : "",
-                "testPeriod" : "",
-                "testScore" : "",
-                "appStore" : "",
-                "website" : "",
-                "sourceCode" : "",
-                "video" : "",
-                "commit1" : "",
-                "commit2" : "",
-                "commit3" : "",
-                "issueCreated" : "true",
-                "issueClosed" : "true"
-
-            }
-        },{
-            "lang" : "en",
-            "content" : {
-                "report_no" : "19-CAU-01-009",
-                "name" : "",
-                "course" : "iOS App Design to Develop Course",
-                "period" : "교육기간: 2018년 12월 26일 ~ 2019년 2월 15일 ( 8주 135시간 )",
-                "instructor" : "고준일, 윤성관, 김태선, 남장혁",
-                "appIcon" : "",
-                "appName" : "팀플시간",
-                "partner" : "",
-                "appIntro" : "",
-                "testPeriod" : "",
-                "testScore" : "",
-                "appStore" : "",
-                "website" : "",
-                "sourceCode" : "",
-                "video" : "",
-                "commit1" : "",
-                "commit2" : "",
-                "commit3" : "",
-                "issueCreated" : "true",
-                "issueClosed" : "true"
-
-            }
-        }
-]
+  "contents": [
+    {
+      "lang": "ko",
+      "content": {
+        "report_no": "20-DGU-01-008",
+        "name": "남연진",
+        "course": "4차 산업혁명 핵심기술 - iOS App 개발자 양성과정",
+        "period": "교육기간: 2019년 12월 23일 ~ 2020년 2월 3일 (  7주 96시간 )",
+        "instructor": "강희종, 윤성관",
+        "appIcon": "",
+        "appName": "OAOmates",
+        "partner": "",
+        "appIntro": "",
+        "testPeriod": "",
+        "testScore": "",
+        "appStore": "",
+        "website": "https://projectintheclass.github.io/OAOmates/",
+        "sourceCode": "https://github.com/ProjectInTheClass/OAOmates",
+        "video": "https://www.youtube.com/embed/s47RyDpqjuQ",
+        "commit1": "",
+        "commit2": "",
+        "commit3": "",
+        "issueCreated": "true",
+        "issueClosed": "true"
+      }
+    },
+    {
+      "lang": "en",
+      "content": {
+        "report_no": "20-DGU-01-008",
+        "name": "남연진",
+        "course": "iOS App Design to Develop Course",
+        "period": "2019.12.23 ~ 2020.02.03 ( 8weeks 135hours )",
+        "instructor": "Kang Hee Jong, Yoon Seong Kwan",
+        "appIcon": "",
+        "appName": "OAOmates",
+        "partner": "",
+        "appIntro": "",
+        "testPeriod": "",
+        "testScore": "",
+        "appStore": "",
+        "website": "https://projectintheclass.github.io/OAOmates/",
+        "sourceCode": "https://github.com/ProjectInTheClass/OAOmates",
+        "video": "https://www.youtube.com/embed/s47RyDpqjuQ",
+        "commit1": "",
+        "commit2": "",
+        "commit3": "",
+        "issueCreated": "true",
+        "issueClosed": "true"
+      }
+    }
+  ]
 }
-
