@@ -9,48 +9,71 @@
                 "period" : "교육기간: 2018년 12월 26일 ~ 2019년 2월 15일 ( 8주 135시간 )",
                 "instructor" : "고준일, 윤성관, 김태선, 남장혁",
                 "appIcon" : "",
-                "appName" : "팀플시간",
-                "partner" : "",
-                "appIntro" : "",
+                "appName" : "편한 Calendar",
+                "partner" : "박정훈, 이지나",
+                "appIntro" : "복잡한 조작이 없는 간편한 일정입력 캘린더 앱",
                 "testPeriod" : "",
                 "testScore" : "",
                 "appStore" : "",
-                "website" : "",
-                "sourceCode" : "",
-                "video" : "",
-                "commit1" : "",
-                "commit2" : "",
-                "commit3" : "",
-                "issueCreated" : "true",
-                "issueClosed" : "true"
+                "website" : "https://projectintheclass.github.io/convenient_calendar/",
+                "sourceCode" : "https://github.com/ProjectInTheClass/convenient_calendar.git",
+                "video" : "https://www.youtube.com/embed/PActdaWm9Ec",
+                "commit1" : {
+                    "title" : "일정 입력을 자연어 처리하면서 이전 디자인 과정에서 지적받았던 복잡해보인다는 점을 해결",
+                    "content" : "이를 해결하기 위해 사용자가 입력하려는 항목만 실시간적으로 보여줌으로써 보다 간편하게 보일 수 있도록 추가함. 테이블 뷰의 항목을 어떻게 실시간으로 추가하고 지우며, 순서를 정렬하는지 배울 수 있었으며, 또한 네비게이션 바를 사용하지 않고 푸시 애니메이션을 사용하는 방법 또한 알게되었음.",
+                    "link" : "https://github.com/ProjectInTheClass/convenient_calendar/commit/ed98ae307042cde4e6d09dd4d256a58a5754d185"
+                },
+                "commit2" : {
+                    "title" : "이전 Playground에서 제작한 자연어처리를 Xcode Project로 옮겨오고, 이를 실시간으로 테스트할 수 이도록 만듦.",
+                    "content" : "자연어 처리의 속도가 걱정했던 것만큼 느리지 않음을 확인할 수 있었고 이후에 자연어 오류를 수정하는데 바로바로 테스트 할 수 있어서 도움이 되었음.",
+                    "link" : "https://github.com/ProjectInTheClass/convenient_calendar/commit/d0ee354c38cbcae2a0340f21810bec1f616feb7d"
+                },
+                "commit3" : {
+                    "title" : "캘린더 기능에서의 앱 퍼포먼스 향상",
+                    "content" : "캘린더 월간 일정을 실시간적으로 보여주는 과정에서 실시간적으로 셀의 이벤트 정보, 그리고 그에 따른 일정을 그려내야해서 이에 대한 도형을 같이 그려내야 했음. 따라서, 캘린더를 한번에 많이 내리는 동작을 취할 경우 과부화가 걸렸고 이를 해결함. ",
+                    "link" : "https://github.com/ProjectInTheClass/convenient_calendar/commit/efa2cbf108ea0ac1e444c11b81f3f902a4ff0b8a"
+                },
+                "issueCreated" : "false",
+                "issueClosed" : "false"
 
             }
         },{
             "lang" : "en",
             "content" : {
                 "report_no" : "19-CAU-01-012",
-                "name" : "",
+                "name" : "윤종원",
                 "course" : "iOS App Design to Develop Course",
                 "period" : "교육기간: 2018년 12월 26일 ~ 2019년 2월 15일 ( 8주 135시간 )",
                 "instructor" : "고준일, 윤성관, 김태선, 남장혁",
                 "appIcon" : "",
-                "appName" : "팀플시간",
-                "partner" : "",
-                "appIntro" : "",
+                "appName" : "Convenient Calendar",
+                "partner" : "박정훈, 이지나",
+                "appIntro" : "복잡한 조작이 없는 간편한 일정입력 캘린더 앱",
                 "testPeriod" : "",
                 "testScore" : "",
                 "appStore" : "",
-                "website" : "",
-                "sourceCode" : "",
-                "video" : "",
-                "commit1" : "",
-                "commit2" : "",
-                "commit3" : "",
-                "issueCreated" : "true",
-                "issueClosed" : "true"
+                "website" : "https://projectintheclass.github.io/convenient_calendar/",
+                "sourceCode" : "https://github.com/ProjectInTheClass/convenient_calendar.git",
+                "video" : "https://www.youtube.com/embed/PActdaWm9Ec",
+                "commit1" : {
+                    "title" : "일정 입력을 자연어 처리하면서 이전 디자인 과정에서 지적받았던 복잡해보인다는 점을 해결",
+                    "content" : "이를 해결하기 위해 사용자가 입력하려는 항목만 실시간적으로 보여줌으로써 보다 간편하게 보일 수 있도록 추가함. 테이블 뷰의 항목을 어떻게 실시간으로 추가하고 지우며, 순서를 정렬하는지 배울 수 있었으며, 또한 네비게이션 바를 사용하지 않고 푸시 애니메이션을 사용하는 방법 또한 알게되었음.",
+                    "link" : "https://github.com/ProjectInTheClass/convenient_calendar/commit/ed98ae307042cde4e6d09dd4d256a58a5754d185"
+                },
+                "commit2" : {
+                    "title" : "이전 Playground에서 제작한 자연어처리를 Xcode Project로 옮겨오고, 이를 실시간으로 테스트할 수 이도록 만듦.",
+                    "content" : "자연어 처리의 속도가 걱정했던 것만큼 느리지 않음을 확인할 수 있었고 이후에 자연어 오류를 수정하는데 바로바로 테스트 할 수 있어서 도움이 되었음.",
+                    "link" : "https://github.com/ProjectInTheClass/convenient_calendar/commit/d0ee354c38cbcae2a0340f21810bec1f616feb7d"
+                },
+                "commit3" : {
+                    "title" : "캘린더 기능에서의 앱 퍼포먼스 향상",
+                    "content" : "캘린더 월간 일정을 실시간적으로 보여주는 과정에서 실시간적으로 셀의 이벤트 정보, 그리고 그에 따른 일정을 그려내야해서 이에 대한 도형을 같이 그려내야 했음. 따라서, 캘린더를 한번에 많이 내리는 동작을 취할 경우 과부화가 걸렸고 이를 해결함. ",
+                    "link" : "https://github.com/ProjectInTheClass/convenient_calendar/commit/efa2cbf108ea0ac1e444c11b81f3f902a4ff0b8a"
+                },
+                "issueCreated" : "false",
+                "issueClosed" : "false"
 
             }
         }
 ]
 }
-

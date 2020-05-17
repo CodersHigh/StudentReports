@@ -9,48 +9,47 @@
                 "period" : "교육기간: 2018년 12월 26일 ~ 2019년 2월 15일 ( 8주 135시간 )",
                 "instructor" : "고준일, 윤성관, 김태선, 남장혁",
                 "appIcon" : "",
-                "appName" : "팀플시간",
-                "partner" : "",
-                "appIntro" : "",
+                "appName" : "노트픽",
+                "partner" : "김응엽, 이소희",
+                "appIntro" : "당신의 중요한 사진들은 쉽게 찾아 사용하세요.",
                 "testPeriod" : "",
                 "testScore" : "",
                 "appStore" : "",
-                "website" : "",
-                "sourceCode" : "",
-                "video" : "",
+                "website" : "https://projectintheclass.github.io/notepic/",
+                "sourceCode" : "https://github.com/ProjectInTheClass/notepic",
+                "video" : "https://www.youtube.com/embed/DIDRgopUvik",
                 "commit1" : "",
                 "commit2" : "",
                 "commit3" : "",
-                "issueCreated" : "true",
-                "issueClosed" : "true"
+                "issueCreated" : "false",
+                "issueClosed" : "false"
 
             }
         },{
             "lang" : "en",
             "content" : {
                 "report_no" : "19-CAU-01-026",
-                "name" : "",
+                "name" : "최윤",
                 "course" : "iOS App Design to Develop Course",
                 "period" : "교육기간: 2018년 12월 26일 ~ 2019년 2월 15일 ( 8주 135시간 )",
                 "instructor" : "고준일, 윤성관, 김태선, 남장혁",
                 "appIcon" : "",
-                "appName" : "팀플시간",
-                "partner" : "",
-                "appIntro" : "",
+                "appName" : "노트픽",
+                "partner" : "김응엽, 이소희",
+                "appIntro" : "당신의 중요한 사진들은 쉽게 찾아 사용하세요.",
                 "testPeriod" : "",
                 "testScore" : "",
                 "appStore" : "",
-                "website" : "",
-                "sourceCode" : "",
-                "video" : "",
+                "website" : "https://projectintheclass.github.io/notepic/",
+                "sourceCode" : "https://github.com/ProjectInTheClass/notepic",
+                "video" : "https://www.youtube.com/embed/DIDRgopUvik",
                 "commit1" : "",
                 "commit2" : "",
                 "commit3" : "",
-                "issueCreated" : "true",
-                "issueClosed" : "true"
+                "issueCreated" : "false",
+                "issueClosed" : "false"
 
             }
         }
 ]
 }
-

@@ -9,48 +9,47 @@
                 "period" : "교육기간: 2018년 12월 26일 ~ 2019년 2월 15일 ( 8주 135시간 )",
                 "instructor" : "고준일, 윤성관, 김태선, 남장혁",
                 "appIcon" : "",
-                "appName" : "팀플시간",
-                "partner" : "",
-                "appIntro" : "",
+                "appName" : "전국 ATM",
+                "partner" : "윤진, 홍재우",
+                "appIntro" : "전국의 ATM을 수수료와 함께 지도에 나타내는 앱",
                 "testPeriod" : "",
                 "testScore" : "",
                 "appStore" : "",
-                "website" : "",
-                "sourceCode" : "",
-                "video" : "",
+                "website" : "https://projectintheclass.github.io/jeonguk_ATM/",
+                "sourceCode" : "https://github.com/ProjectInTheClass/jeonguk_ATM",
+                "video" : "https://www.youtube.com/embed/b5WA3GQofJw",
                 "commit1" : "",
                 "commit2" : "",
                 "commit3" : "",
-                "issueCreated" : "true",
-                "issueClosed" : "true"
+                "issueCreated" : "false",
+                "issueClosed" : "false"
 
             }
         },{
             "lang" : "en",
             "content" : {
                 "report_no" : "19-CAU-01-018",
-                "name" : "",
+                "name" : "이지호",
                 "course" : "iOS App Design to Develop Course",
                 "period" : "교육기간: 2018년 12월 26일 ~ 2019년 2월 15일 ( 8주 135시간 )",
                 "instructor" : "고준일, 윤성관, 김태선, 남장혁",
                 "appIcon" : "",
-                "appName" : "팀플시간",
-                "partner" : "",
-                "appIntro" : "",
+                "appName" : "Jeonguk ATM",
+                "partner" : "윤진, 홍재우",
+                "appIntro" : "전국의 ATM을 수수료와 함께 지도에 나타내는 앱",
                 "testPeriod" : "",
                 "testScore" : "",
                 "appStore" : "",
-                "website" : "",
-                "sourceCode" : "",
-                "video" : "",
+                "website" : "https://projectintheclass.github.io/jeonguk_ATM/",
+                "sourceCode" : "https://github.com/ProjectInTheClass/jeonguk_ATM",
+                "video" : "https://www.youtube.com/embed/b5WA3GQofJw",
                 "commit1" : "",
                 "commit2" : "",
                 "commit3" : "",
-                "issueCreated" : "true",
-                "issueClosed" : "true"
+                "issueCreated" : "false",
+                "issueClosed" : "false"
 
             }
         }
 ]
 }
-

@@ -9,48 +9,47 @@
                 "period" : "교육기간: 2018년 12월 26일 ~ 2019년 2월 15일 ( 8주 135시간 )",
                 "instructor" : "고준일, 윤성관, 김태선, 남장혁",
                 "appIcon" : "",
-                "appName" : "팀플시간",
-                "partner" : "",
-                "appIntro" : "",
+                "appName" : "편한 Calendar",
+                "partner" : "윤종원, 이지나",
+                "appIntro" : "복잡한 조작이 없는 간편한 일정입력 캘린더 앱",
                 "testPeriod" : "",
                 "testScore" : "",
                 "appStore" : "",
-                "website" : "",
-                "sourceCode" : "",
-                "video" : "",
+                "website" : "https://projectintheclass.github.io/convenient_calendar/",
+                "sourceCode" : "https://github.com/ProjectInTheClass/convenient_calendar.git",
+                "video" : "https://www.youtube.com/embed/PActdaWm9Ec",
                 "commit1" : "",
                 "commit2" : "",
                 "commit3" : "",
-                "issueCreated" : "true",
-                "issueClosed" : "true"
+                "issueCreated" : "false",
+                "issueClosed" : "false"
 
             }
         },{
             "lang" : "en",
             "content" : {
                 "report_no" : "19-CAU-01-005",
-                "name" : "",
+                "name" : "박정훈",
                 "course" : "iOS App Design to Develop Course",
                 "period" : "교육기간: 2018년 12월 26일 ~ 2019년 2월 15일 ( 8주 135시간 )",
                 "instructor" : "고준일, 윤성관, 김태선, 남장혁",
                 "appIcon" : "",
-                "appName" : "팀플시간",
-                "partner" : "",
-                "appIntro" : "",
+                "appName" : "Convenient Calendar",
+                "partner" : "윤종원, 이지나",
+                "appIntro" : "복잡한 조작이 없는 간편한 일정입력 캘린더 앱",
                 "testPeriod" : "",
                 "testScore" : "",
                 "appStore" : "",
-                "website" : "",
-                "sourceCode" : "",
-                "video" : "",
+                "website" : "https://projectintheclass.github.io/convenient_calendar/",
+                "sourceCode" : "https://github.com/ProjectInTheClass/convenient_calendar.git",
+                "video" : "https://www.youtube.com/embed/PActdaWm9Ec",
                 "commit1" : "",
                 "commit2" : "",
                 "commit3" : "",
-                "issueCreated" : "true",
-                "issueClosed" : "true"
+                "issueCreated" : "false",
+                "issueClosed" : "false"
 
             }
         }
 ]
 }
-

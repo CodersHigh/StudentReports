@@ -9,48 +9,47 @@
                 "period" : "교육기간: 2018년 12월 26일 ~ 2019년 2월 15일 ( 8주 135시간 )",
                 "instructor" : "고준일, 윤성관, 김태선, 남장혁",
                 "appIcon" : "",
-                "appName" : "팀플시간",
-                "partner" : "",
-                "appIntro" : "",
+                "appName" : "버블 메모",
+                "partner" : "이혜미, 조예진",
+                "appIntro" : "\"메모에서부터 오는 감각적인 경험.\" 비눗방울처럼 생겨나는 아이디어를 놓치지 마세요.",
                 "testPeriod" : "",
                 "testScore" : "",
                 "appStore" : "",
-                "website" : "",
-                "sourceCode" : "",
-                "video" : "",
+                "website" : "https://projectintheclass.github.io/BubbleMemo/",
+                "sourceCode" : "https://github.com/ProjectInTheClass/BubbleMemo",
+                "video" : "https://www.youtube.com/embed/POG0OzV0tqE",
                 "commit1" : "",
                 "commit2" : "",
                 "commit3" : "",
-                "issueCreated" : "true",
-                "issueClosed" : "true"
+                "issueCreated" : "false",
+                "issueClosed" : "false"
 
             }
         },{
             "lang" : "en",
             "content" : {
                 "report_no" : "19-CAU-01-001",
-                "name" : "",
+                "name" : "고안나",
                 "course" : "iOS App Design to Develop Course",
                 "period" : "교육기간: 2018년 12월 26일 ~ 2019년 2월 15일 ( 8주 135시간 )",
                 "instructor" : "고준일, 윤성관, 김태선, 남장혁",
                 "appIcon" : "",
-                "appName" : "팀플시간",
-                "partner" : "",
-                "appIntro" : "",
+                "appName" : "Bubble Memo",
+                "partner" : "이혜미, 조예진",
+                "appIntro" : "\"메모에서부터 오는 감각적인 경험.\" 비눗방울처럼 생겨나는 아이디어를 놓치지 마세요.",
                 "testPeriod" : "",
                 "testScore" : "",
                 "appStore" : "",
-                "website" : "",
-                "sourceCode" : "",
-                "video" : "",
+                "website" : "https://projectintheclass.github.io/BubbleMemo/",
+                "sourceCode" : "https://github.com/ProjectInTheClass/BubbleMemo",
+                "video" : "https://www.youtube.com/embed/POG0OzV0tqE",
                 "commit1" : "",
                 "commit2" : "",
                 "commit3" : "",
-                "issueCreated" : "true",
-                "issueClosed" : "true"
+                "issueCreated" : "false",
+                "issueClosed" : "false"
 
             }
         }
 ]
 }
-

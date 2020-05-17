@@ -9,48 +9,71 @@
                 "period" : "교육기간: 2018년 12월 26일 ~ 2019년 2월 15일 ( 8주 135시간 )",
                 "instructor" : "고준일, 윤성관, 김태선, 남장혁",
                 "appIcon" : "",
-                "appName" : "팀플시간",
-                "partner" : "",
-                "appIntro" : "",
+                "appName" : "인생적금",
+                "partner" : "박세연, 박준영",
+                "appIntro" : "매일 비슷한 각도에서 촬영할 수 있도록 틀을 제시하고 촬영된 사진을 영상으로 만들어 ‘인생적금’을 만들어 주는 앱",
                 "testPeriod" : "",
                 "testScore" : "",
                 "appStore" : "",
-                "website" : "",
-                "sourceCode" : "",
-                "video" : "",
-                "commit1" : "",
-                "commit2" : "",
-                "commit3" : "",
-                "issueCreated" : "true",
-                "issueClosed" : "true"
+                "website" : "https://projectintheclass.github.io/life-deposit/",
+                "sourceCode" : "https://github.com/ProjectInTheClass/life-deposit",
+                "video" : "https://www.youtube.com/embed/F4EkTb5-EXs",
+                "commit1" : {
+                    "title" : "사진 오버랩 및 사진 저장 기능 구현",
+                    "content" : "기능 설명 - 카메라에 기준이 되는 사진을 오버랩 시키고, 해당 적금의 이름으로 만들어진 앨범에 사진이 저장되도록 하는 것.",
+                    "link" : "https://github.com/ProjectInTheClass/life-deposit/commit/4bd1bd5a1f750d00cd2f80d49ee0f1a8f8ca1f6e"
+                },
+                "commit2" : {
+                    "title" : "영상을 만들고 저장하는 기능 구현",
+                    "content" : "마지막 전날까지도 구현이 되지 않아 걱정이 많았던, 우리 어플의 핵심 기능 중 하나인 영상을 만들고, 저장하는 것이 드디어 마지막 전날 밤 성공해서 너무 기뻤습니다.",
+                    "link" : "https://github.com/ProjectInTheClass/life-deposit/commit/9c182e50eafa36b7cfb2547feec6bee64e26b91e"
+                },
+                "commit3" : {
+                    "title" : "사진 저장 방식을 변경하여 임의로 사진에 접근하는 것을 방지하는 기능 구현",
+                    "content" : "처음에는 사진 저장을 단순히 사용자 기기의 앨범에 저장하도록 했는데, 이 과정에서 사용자가 사진에 마음대로 접근이 가능하다는 점을 뒤늦게 깨닫고 수정하여 앱내에 사진을 저장하도록 바꾸었습니다. 단순히 앨범에 저장하면 된다고 안일하게 생각했다가 깊은 깨달음을 얻어서 기억에 남습니다.",
+                    "link" : "https://github.com/ProjectInTheClass/life-deposit/commit/adee535e658da10eca2bd4d5f9fda0dd7b936db3"
+                  },
+                "issueCreated" : "false",
+                "issueClosed" : "false"
 
             }
         },{
             "lang" : "en",
             "content" : {
                 "report_no" : "19-CAU-01-014",
-                "name" : "",
+                "name" : "이민지",
                 "course" : "iOS App Design to Develop Course",
                 "period" : "교육기간: 2018년 12월 26일 ~ 2019년 2월 15일 ( 8주 135시간 )",
                 "instructor" : "고준일, 윤성관, 김태선, 남장혁",
                 "appIcon" : "",
-                "appName" : "팀플시간",
-                "partner" : "",
-                "appIntro" : "",
+                "appName" : "Life Deposit",
+                "partner" : "박세연, 박준영",
+                "appIntro" : "매일 비슷한 각도에서 촬영할 수 있도록 틀을 제시하고 촬영된 사진을 영상으로 만들어 ‘인생적금’을 만들어 주는 앱",
                 "testPeriod" : "",
                 "testScore" : "",
                 "appStore" : "",
-                "website" : "",
-                "sourceCode" : "",
-                "video" : "",
-                "commit1" : "",
-                "commit2" : "",
-                "commit3" : "",
-                "issueCreated" : "true",
-                "issueClosed" : "true"
+                "website" : "https://projectintheclass.github.io/life-deposit/",
+                "sourceCode" : "https://github.com/ProjectInTheClass/life-deposit",
+                "video" : "https://www.youtube.com/embed/F4EkTb5-EXs",
+                "commit1" : {
+                    "title" : "사진 오버랩 및 사진 저장 기능 구현",
+                    "content" : "기능 설명 - 카메라에 기준이 되는 사진을 오버랩 시키고, 해당 적금의 이름으로 만들어진 앨범에 사진이 저장되도록 하는 것.",
+                    "link" : "https://github.com/ProjectInTheClass/life-deposit/commit/4bd1bd5a1f750d00cd2f80d49ee0f1a8f8ca1f6e"
+                },
+                "commit2" : {
+                    "title" : "영상을 만들고 저장하는 기능 구현",
+                    "content" : "마지막 전날까지도 구현이 되지 않아 걱정이 많았던, 우리 어플의 핵심 기능 중 하나인 영상을 만들고, 저장하는 것이 드디어 마지막 전날 밤 성공해서 너무 기뻤습니다.",
+                    "link" : "https://github.com/ProjectInTheClass/life-deposit/commit/9c182e50eafa36b7cfb2547feec6bee64e26b91e"
+                },
+                "commit3" : {
+                    "title" : "사진 저장 방식을 변경하여 임의로 사진에 접근하는 것을 방지하는 기능 구현",
+                    "content" : "처음에는 사진 저장을 단순히 사용자 기기의 앨범에 저장하도록 했는데, 이 과정에서 사용자가 사진에 마음대로 접근이 가능하다는 점을 뒤늦게 깨닫고 수정하여 앱내에 사진을 저장하도록 바꾸었습니다. 단순히 앨범에 저장하면 된다고 안일하게 생각했다가 깊은 깨달음을 얻어서 기억에 남습니다.",
+                    "link" : "https://github.com/ProjectInTheClass/life-deposit/commit/adee535e658da10eca2bd4d5f9fda0dd7b936db3"
+                  },
+                "issueCreated" : "false",
+                "issueClosed" : "false"
 
             }
         }
 ]
 }
-

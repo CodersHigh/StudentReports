@@ -9,48 +9,47 @@
                 "period" : "교육기간: 2018년 12월 26일 ~ 2019년 2월 15일 ( 8주 135시간 )",
                 "instructor" : "고준일, 윤성관, 김태선, 남장혁",
                 "appIcon" : "",
-                "appName" : "팀플시간",
-                "partner" : "",
-                "appIntro" : "",
+                "appName" : "인생적금",
+                "partner" : "박세연, 이민지",
+                "appIntro" : "매일 비슷한 각도에서 촬영할 수 있도록 틀을 제시하고 촬영된 사진을 영상으로 만들어 ‘인생적금’을 만들어 주는 앱",
                 "testPeriod" : "",
                 "testScore" : "",
                 "appStore" : "",
-                "website" : "",
-                "sourceCode" : "",
-                "video" : "",
+                "website" : "https://projectintheclass.github.io/life-deposit/",
+                "sourceCode" : "https://github.com/ProjectInTheClass/life-deposit",
+                "video" : "https://www.youtube.com/embed/F4EkTb5-EXs",
                 "commit1" : "",
                 "commit2" : "",
                 "commit3" : "",
-                "issueCreated" : "true",
-                "issueClosed" : "true"
+                "issueCreated" : "false",
+                "issueClosed" : "false"
 
             }
         },{
             "lang" : "en",
             "content" : {
                 "report_no" : "19-CAU-01-006",
-                "name" : "",
+                "name" : "박준영",
                 "course" : "iOS App Design to Develop Course",
                 "period" : "교육기간: 2018년 12월 26일 ~ 2019년 2월 15일 ( 8주 135시간 )",
                 "instructor" : "고준일, 윤성관, 김태선, 남장혁",
                 "appIcon" : "",
-                "appName" : "팀플시간",
-                "partner" : "",
-                "appIntro" : "",
+                "appName" : "Life Deposit",
+                "partner" : "박세연, 이민지",
+                "appIntro" : "매일 비슷한 각도에서 촬영할 수 있도록 틀을 제시하고 촬영된 사진을 영상으로 만들어 ‘인생적금’을 만들어 주는 앱",
                 "testPeriod" : "",
                 "testScore" : "",
                 "appStore" : "",
-                "website" : "",
-                "sourceCode" : "",
-                "video" : "",
+                "website" : "https://projectintheclass.github.io/life-deposit/",
+                "sourceCode" : "https://github.com/ProjectInTheClass/life-deposit",
+                "video" : "https://www.youtube.com/embed/F4EkTb5-EXs",
                 "commit1" : "",
                 "commit2" : "",
                 "commit3" : "",
-                "issueCreated" : "true",
-                "issueClosed" : "true"
+                "issueCreated" : "false",
+                "issueClosed" : "false"
 
             }
         }
 ]
 }
-

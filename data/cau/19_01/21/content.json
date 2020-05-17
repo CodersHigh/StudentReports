@@ -9,48 +9,71 @@
                 "period" : "교육기간: 2018년 12월 26일 ~ 2019년 2월 15일 ( 8주 135시간 )",
                 "instructor" : "고준일, 윤성관, 김태선, 남장혁",
                 "appIcon" : "",
-                "appName" : "팀플시간",
-                "partner" : "",
-                "appIntro" : "",
+                "appName" : "EYEHealth",
+                "partner" : "김혜성, 조혜진",
+                "appIntro" : "콘텍트렌즈 착용자를 위한 렌즈착용 권장시간 알람 앱입니다.",
                 "testPeriod" : "",
                 "testScore" : "",
                 "appStore" : "",
-                "website" : "",
-                "sourceCode" : "",
-                "video" : "",
-                "commit1" : "",
-                "commit2" : "",
-                "commit3" : "",
-                "issueCreated" : "true",
-                "issueClosed" : "true"
+                "website" : "https://projectintheclass.github.io/EYEhealth/",
+                "sourceCode" : "https://github.com/ProjectInTheClass/EYEhealth",
+                "video" : "https://www.youtube.com/embed/YBojEyf_GXo",
+                "commit1" : {
+                    "title" : "화면을 스위치를 통해 활성화/비활성화 하고 라벨 안의 글자의 내용과 색상을 시간에 따라 바꾸는 등 기본적인 기능을 구현한 커밋",
+                    "content" : "숫자를 5:21 이 아니라 05:21 과 같이 2개씩 나오게 하기 위해 if 문을 사용하고 화면을 비활성화 하기 위해 불투명한 뷰를 늘리는등 배웠던 내용을 실제 기능을 구현하며 활용해 보며 앱 제작에 대한 자신감을 얻을 수 있었습니다.",
+                    "link" :  "https://github.com/ProjectInTheClass/EYEhealth/commit/c44f6967f48ae4bf0a7ec124744835f5b23c5228"
+                  },
+                "commit2" : {
+                    "title" : "앱 델리게이트 활용 및 로컬 알림 기능을 구현한 커밋",
+                    "content" : "알람설정 버튼없이 다이얼을 돌려 로컬알림을 보내기 위해 원래는 1초마다 호출하는 함수를 이용했었습니다. 1초마다 알람해제, 알람설정 을 반복하는 비효율적인 함수였으나 강사님에게 피드백을 받은 후 앱이 백그라운드로 가거나 종료됬을때 알람을 설정하도록 바꿨었습니다. 이를 통해 앱 델리게이터를 활용할 수 있게 되었고 로컬알람을 보내는 방식에 대해서도 좀더 정확히 알게 되어 개인적 성장에 도움을 주었던 코드였습니다.",
+                    "link" : "https://github.com/ProjectInTheClass/EYEhealth/commit/36b8db1402e6495639c647e5a7e49e0928de9b96"
+                  },
+                "commit3" : {
+                    "title" : "",
+                    "content" : "",
+                    "link" : ""
+                },
+                "issueCreated" : "false",
+                "issueClosed" : "false"
 
             }
         },{
             "lang" : "en",
             "content" : {
                 "report_no" : "19-CAU-01-021",
-                "name" : "",
+                "name" : "임재확",
                 "course" : "iOS App Design to Develop Course",
                 "period" : "교육기간: 2018년 12월 26일 ~ 2019년 2월 15일 ( 8주 135시간 )",
                 "instructor" : "고준일, 윤성관, 김태선, 남장혁",
                 "appIcon" : "",
-                "appName" : "팀플시간",
-                "partner" : "",
-                "appIntro" : "",
+                "appName" : "EYEHealth",
+                "partner" : "김혜성, 조혜진",
+                "appIntro" : "콘텍트렌즈 착용자를 위한 렌즈착용 권장시간 알람 앱입니다.",
                 "testPeriod" : "",
                 "testScore" : "",
                 "appStore" : "",
-                "website" : "",
-                "sourceCode" : "",
-                "video" : "",
-                "commit1" : "",
-                "commit2" : "",
-                "commit3" : "",
-                "issueCreated" : "true",
-                "issueClosed" : "true"
+                "website" : "https://projectintheclass.github.io/EYEhealth/",
+                "sourceCode" : "https://github.com/ProjectInTheClass/EYEhealth",
+                "video" : "https://www.youtube.com/embed/YBojEyf_GXo",
+                "commit1" : {
+                    "title" : "화면을 스위치를 통해 활성화/비활성화 하고 라벨 안의 글자의 내용과 색상을 시간에 따라 바꾸는 등 기본적인 기능을 구현한 커밋",
+                    "content" : "숫자를 5:21 이 아니라 05:21 과 같이 2개씩 나오게 하기 위해 if 문을 사용하고 화면을 비활성화 하기 위해 불투명한 뷰를 늘리는등 배웠던 내용을 실제 기능을 구현하며 활용해 보며 앱 제작에 대한 자신감을 얻을 수 있었습니다.",
+                    "link" :  "https://github.com/ProjectInTheClass/EYEhealth/commit/c44f6967f48ae4bf0a7ec124744835f5b23c5228"
+                  },
+                "commit2" : {
+                    "title" : "앱 델리게이트 활용 및 로컬 알림 기능을 구현한 커밋",
+                    "content" : "알람설정 버튼없이 다이얼을 돌려 로컬알림을 보내기 위해 원래는 1초마다 호출하는 함수를 이용했었습니다. 1초마다 알람해제, 알람설정 을 반복하는 비효율적인 함수였으나 강사님에게 피드백을 받은 후 앱이 백그라운드로 가거나 종료됬을때 알람을 설정하도록 바꿨었습니다. 이를 통해 앱 델리게이터를 활용할 수 있게 되었고 로컬알람을 보내는 방식에 대해서도 좀더 정확히 알게 되어 개인적 성장에 도움을 주었던 코드였습니다.",
+                    "link" : "https://github.com/ProjectInTheClass/EYEhealth/commit/36b8db1402e6495639c647e5a7e49e0928de9b96"
+                  },
+                "commit3" : {
+                    "title" : "",
+                    "content" : "",
+                    "link" : ""
+                },
+                "issueCreated" : "false",
+                "issueClosed" : "false"
 
             }
         }
 ]
 }
-
